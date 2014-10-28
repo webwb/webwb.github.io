@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!-- <h1 class="page-heading">{{ post.title }}</h1> -->
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <img class="post-image" src="/images/{{ post.image }}" />  <article class="post-teaser">
+          <span class="post-author">{{ post.author }}</span>
+          <span class="post-meta">on {{ post.date | date: "%d/%m/%Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p class="post-excerpt">{{ post.excerpt }}</p>
+        </article>
+      
+      </li>
+    {% endfor %}
+  </ul>
+  
+   {% include pagination.html %}
+   
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>

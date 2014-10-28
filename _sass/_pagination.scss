@@ -1,0 +1,23 @@
+.pagination {
+  text-align:center;
+  a, 
+  a:visited {
+    color:$brand-color;
+    border: 1px solid $brand-color;
+    padding: .25em 1em;
+    border-radius:5px;
+    text-decoration:none;
+    // put into overlap
+    position: relative;
+    bottom: -2.7em;
+    &:nth-child(even){
+     margin-left:1em; 
+    }
+    
+    &:hover, 
+    &:active {
+      color:white;
+      background:$brand-color;
+    };
+  }
+}

@@ -1,0 +1,39 @@
+.site-banner {
+  background: $brand-color;
+  height: 9em;
+  padding: 2em 0 0 0;
+  color:white;
+  text-transform:uppercase;
+}
+
+.site-banner {
+  h1 {
+    font-size: 1.5em;
+    line-height:1.5em;
+    margin:0;
+  }
+  h2 {
+    font-family: OpenSans-CondLight, sans-serif;
+    font-size: 1.2em;
+    line-height:1.2em;
+    margin:0;
+  }
+}
+
+.page-content .wrapper {
+background: #FFF;
+}
+
+@include media-query($on-palm) {
+  .site-banner {
+    text-align:center;
+    h2 {
+      display:none;
+      
+    }
+  }
+}
+
+@include media-query($on-laptop) {
+  
+}
