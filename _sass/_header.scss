@@ -29,8 +29,8 @@
       text-decoration:none;
   }
 }
-.site-subtitle { 
-  display:block; 
+.site-subtitle {
+  display:block;
   font-size: 13px;
   line-height: 13px;
   a, &:visited, &:hover, &:active {
@@ -40,7 +40,7 @@
 }
 
 .page-link {
-  display:block;
+  display:inline;
   font-size:16px;
   line-height:16px;
   padding: .55em 1.15em;
