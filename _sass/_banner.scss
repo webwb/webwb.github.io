@@ -9,13 +9,13 @@
 .site-banner {
   h1 {
     font-size: 1.5em;
-    line-height:1.5em;
+    line-height:1em;
     margin:0;
   }
   h2 {
     font-family: OpenSans-CondLight, sans-serif;
     font-size: 1.2em;
-    line-height:1.2em;
+    line-height:.8em;
     margin:0;
   }
 }
@@ -29,11 +29,11 @@ background: #FFF;
     text-align:center;
     h2 {
       display:none;
-      
+
     }
   }
 }
 
 @include media-query($on-laptop) {
-  
+
 }
