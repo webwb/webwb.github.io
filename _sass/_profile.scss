@@ -1,0 +1,73 @@
+.profile {
+  float:left;
+  width: -webkit-calc(47% - (#{$spacing-unit} / 2));
+  width:         calc(47% - (#{$spacing-unit} / 2));
+  &:nth-child(even) {
+    float:right;
+  }
+  @include media-query($on-palm) {
+      width:100%;
+      float:none;
+      &:nth-child(even) {
+        padding-top: 3em;
+      }
+  }
+  h2 {
+    color:$brand-color;
+    border-bottom:1px dotted $brand-color;
+  }
+}
+
+.profile-photo  {
+  border-radius:50%;
+  float:left;
+}
+  
+.profile-name {
+  float:left;
+  text-transform:uppercase;
+  color:$brand-color;
+  font-family:OpenSans-CondBold, sans-serif;
+  padding: 2.5em 0 0 1.2em;
+  line-height: 1em;
+  @include media-query($on-palm) {
+    float:none;
+    padding-left:9em;
+  }
+}
+.profile-talent {
+  float:left;
+  color:$grey-color;
+  padding-left:1.2em;
+  font-family:OpenSans-CondLight,sans-serif;
+  @include media-query($on-palm) {
+    padding-left:9em;
+    float:none;
+  }
+}
+  
+.profile-bio {
+  clear:both;
+}
+  
+.profile-skills {
+  ul {
+    margin:0;
+  }
+    li {
+      padding: 0.2em 2em;
+      background: $brand-color;
+      color: white;
+      display: inline-block;
+      border-radius: 0.5em;
+      margin: 1em .5em 0 0;
+    }
+}
+.profile-bio,
+.profile-skills,
+.profile-contacts {
+  padding-top:2em;
+}
+
+
+  

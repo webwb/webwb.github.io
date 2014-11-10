@@ -103,5 +103,7 @@ ul.build-with-list {
 }
 
 .copyright {
-  margin-top:2em;
+  @include media-query($on-palm) {
+    margin-top:2em;
+  }
 }
