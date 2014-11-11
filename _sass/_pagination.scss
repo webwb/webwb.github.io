@@ -1,6 +1,6 @@
 .pagination {
   text-align:center;
-  a, 
+  a,
   a:visited {
     color:$brand-color;
     border: 1px solid $brand-color;
@@ -9,12 +9,12 @@
     text-decoration:none;
     // put into overlap
     position: relative;
-    bottom: -2.7em;
+    bottom: -1.9em;
     &:nth-child(even){
-     margin-left:1em; 
+     margin-left:1em;
     }
-    
-    &:hover, 
+
+    &:hover,
     &:active {
       color:white;
       background:$brand-color;
