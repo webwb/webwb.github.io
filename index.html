@@ -15,15 +15,17 @@ layout: default
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-          <p class="post-excerpt">{{ post.excerpt }}</p>
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncate:200}}
+            <a class="post-excerpt-link" href="{{ post.url | prepend: site.baseurl }}">read on</a>
+          </p>
         </article>
-      
+
       </li>
     {% endfor %}
   </ul>
-  
+
    {% include pagination.html %}
-   
+
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
