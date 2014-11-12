@@ -13,3 +13,4 @@ github_username:  webwb
 paginate: 5
 # Build settings
 markdown: kramdown
+exclude: [".c9"]
