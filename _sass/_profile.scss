@@ -16,13 +16,14 @@
     color:$brand-color;
     border-bottom:1px dotted $brand-color;
   }
+
 }
 
 .profile-photo  {
   border-radius:50%;
   float:left;
 }
-  
+
 .profile-name {
   float:left;
   text-transform:uppercase;
@@ -45,11 +46,11 @@
     float:none;
   }
 }
-  
+
 .profile-bio {
   clear:both;
 }
-  
+
 .profile-skills {
   ul {
     margin:0;
@@ -68,6 +69,26 @@
 .profile-contacts {
   padding-top:2em;
 }
+.profile-contacts {
+  li {
+    display: inline;
+    margin-right: 0.6875em;
+  }
+  .circle {
+    color: #4FB56E;
+    border: 0.0625em $brand-color solid;
+    border-radius: 50%;
+    width: 1.3em;
+    height: 1.3em;
+    line-height: 1.4em;
+    &:hover {
+      background: $brand-color;
+      color: #FFF;
+    }
+    i {
+      font-size: 1.625rem;
+    }
+  }
+}
 
 
-  

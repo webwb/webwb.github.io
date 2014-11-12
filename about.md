@@ -26,10 +26,26 @@ class: about
   <div class="profile-contacts">
     <h2>Contact</h2>
     <ul>
-      <li><a href="">Twitter</a></li>
-      <li><a href="">Facebook</a></li>
-      <li><a href="">linkedIn</a></li>
-      <li><a href="">Google+</a></li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-github fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+         <i class="fa fa-google-plus fa-stack-1x"></i>
+        </a>
+      </li>
     </ul>
   </div>
 </div>
@@ -56,10 +72,26 @@ class: about
   <div class="profile-contacts">
     <h2>Contact</h2>
     <ul>
-      <li><a href="">Twitter</a></li>
-      <li><a href="">Facebook</a></li>
-      <li><a href="">linkedIn</a></li>
-      <li><a href="">Google+</a></li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-github fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" class="fa-stack fa-2x circle">
+         <i class="fa fa-google-plus fa-stack-1x"></i>
+        </a>
+      </li>
     </ul>
   </div>
 </div>
