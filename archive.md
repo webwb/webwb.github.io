@@ -6,7 +6,7 @@ class: archive
 ---
 
 <section id="archive">
-  <h3>This years posts</h3>
+  <h3>All posts</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this">

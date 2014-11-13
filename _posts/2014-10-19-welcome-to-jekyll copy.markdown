@@ -6,7 +6,7 @@ author: André Borges
 image: sample-berlin-640x360.jpg
 categories: jekyll update
 ---
-♪♪ Somewhere… over the rainbow… there's another rainbow… ♪♪ I made a huge tiny mistake. I figured out a way to make money while I'm working! Let me take off my assistant's skirt and put on my Barbra-Streisand-in-The-Prince-of-Tides ass-masking therapist pantsuit. Stop it, stop it. This objectification of women has to stop. It's just Mom and whores. She calls it a mayonegg.
+♪♪ WERWERWER Somewhere… over the rainbow… there's another rainbow… ♪♪ I made a huge tiny mistake. I figured out a way to make money while I'm working! Let me take off my assistant's skirt and put on my Barbra-Streisand-in-The-Prince-of-Tides ass-masking therapist pantsuit. Stop it, stop it. This objectification of women has to stop. It's just Mom and whores. She calls it a mayonegg.
 
 She keeps saying that God is going to show me a sign. The… something of my ways. Wisdom? It's probably wisdom. Excuse me while I circumvent you. The old reach-around. It's OUR nausea. I'm a complete failure. I can't even fake the death of a stripper. I've used one adjective to describe myself. What is it? Please refrain from Mayoneggs during this salmonella scare. There's a new daddy in town. A discipline daddy. Well, OK, have sex with this girl. Right now. Get in there, have some sex with her.
 
