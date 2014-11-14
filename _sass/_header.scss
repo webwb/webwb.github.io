@@ -90,8 +90,8 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
-        right: 30px;
+        top: 2.8125em;
+        right: 0.9375em;
         padding-top:0;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
