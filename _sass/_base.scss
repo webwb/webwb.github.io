@@ -95,8 +95,8 @@ a {
     }
 
     &:hover {
-        color: $brand-color;
-        text-decoration: underline;
+        color: darken($brand-color, 15%);
+        text-decoration: none;
     }
 }
 
