@@ -59,6 +59,17 @@
 .site-footer {
   background: $brand-color;
   color:white;
+  @include media-query($on-palm) {
+    text-align:center;
+  }
+}
+// white text
+.footer-col-wrapper,
+.footer-col-wrapper a {
+  color:white;
+}
+
+.site-footer {
   h2 {
     font-size:1em;
     text-transform:uppercase;
@@ -67,20 +78,8 @@
     font-size:.875em;
     font-family:OpenSans-CondLight, sans-serif;
     padding-left: calc(60% - (30px / 2));
-  }  
-  @include media-query($on-palm) {
-    text-align:center;
-    p {
-      padding:0;
-    }
   }
 }
-// white text
-.footer-col-wrapper,
-.footer-col-wrapper a {
-  color:white;
-}
-  
 .build-with-list {
   img {
     height:2em;
