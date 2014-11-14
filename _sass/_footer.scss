@@ -65,9 +65,10 @@
     text-transform:uppercase;
   }
   p {
-    font-size:.875em;
-    font-family:OpenSans-CondLight, sans-serif;
-    padding-left: calc(60% - (30px / 2));
+    font-family:sans-serif;
+    padding-left: calc(50% - (30px / 2));
+    line-height:1.2em;
+    font-size:.75em;
   }  
   @include media-query($on-palm) {
     text-align:center;
@@ -99,5 +100,13 @@ ul.build-with-list {
 .copyright {
   @include media-query($on-palm) {
     margin-top:2em;
+  }
+  p span {
+  font-family:OpenSans-CondBold, sans-serif;
+  font-size:1rem;
+  vertical-align: text-bottom;
+  }
+  img {
+  padding: 0 0 0 0.5em;
   }
 }
