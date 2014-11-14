@@ -53,7 +53,9 @@
   border-width: 1px;
   border-style: solid;
   border-radius: 8px;
-  &:visited { color: $brand-color; }
+  &:visited {
+    color: $brand-color;
+  }
   &:hover {
     border-color: $brand-color;
     text-decoration:none;
@@ -62,7 +64,7 @@
     @extend .active;
   };
 }
-.active {
+.site-nav .active {
   background:$brand-color;
   border-color: $brand-color;
   color:white;

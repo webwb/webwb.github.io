@@ -3,6 +3,7 @@ layout: page
 title: Archive
 permalink: /archive/
 class: archive
+navigation: archive
 ---
 
 <section id="archive">

@@ -17,9 +17,10 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="/"        >Home</a>
-        <a class="page-link" href="/archive/">Archive</a>
-        <a class="page-link" href="/about/"  >About</a>
+        {% assign current = page.url | downcase | split: '/' %}
+        <a class="page-link {% if page.navigation == 'home'    %}active{% endif %}" href="/"        >Home</a>
+        <a class="page-link {% if page.navigation == 'archive' %}active{% endif %}" href="/archive/">Archive</a>
+        <a class="page-link {% if page.navigation == 'about'   %}active{% endif %}" href="/about/"  >About</a>
       </div>
     </nav>
 

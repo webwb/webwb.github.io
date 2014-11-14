@@ -91,12 +91,12 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: darken($brand-color, 15%);
-        text-decoration: none;
+        color: $brand-color;
+        text-decoration: underline;
     }
 }
 

@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 class: about
+navigation: about
 ---
 
 <div class="profile">

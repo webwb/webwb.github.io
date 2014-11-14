@@ -3,12 +3,16 @@ André:
 # Copyright Font checken und Impressum PLatzierung
 # Profil füllen about.md
 # Überlegen ob border-radius für Bilder genutzt werden soll
+# SVG für Footer
 
 Nils:
 - Profil füllen about.md
-- Footer soll immer bis unten gehen ohne Scrollen (s. About)
-- Navigation aktiver Punkt muss grün bleiben
 - Links für Übersicht und Artikel teilen (base.scss)
+
+Erledigt:
+- @done Navigation aktiver Punkt muss grün bleiben
+- @done Footer soll immer bis unten gehen ohne Scrollen (s. About) // !! Dieses Problem ist irgendwie weg.
+
 
 Maybe / someday:
 - Navigation wie droxic.com mit Farbe #4fb56e als Hintergrund 80-90% und Schriftfarbe weiß evtl. größere Schrift
