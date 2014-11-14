@@ -50,7 +50,6 @@ class: about
   </div>
 </div>
 
-
 <div class="profile">
   <img class="profile-photo" src="/images/face.jpg" alt="just some random face"/>
   <div class="profile-name">André Borges</div>

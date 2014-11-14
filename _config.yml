@@ -14,3 +14,4 @@ paginate: 5
 # Build settings
 markdown: kramdown
 exclude: [".c9"]
+author1: andre
