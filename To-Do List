@@ -3,9 +3,12 @@ André:
 # Copyright Font checken und Impressum PLatzierung
 # Profil füllen about.md
 # Überlegen ob border-radius für Bilder genutzt werden soll
+# Webworkers Logo als SVG
 
 Nils:
-# Navigation wie droxic.com mit Farbe #4fb56e als Hintergrund 80-90% und Schriftfarbe weiß evtl. größere Schrift
-# Profil füllen about.md
-# Footer soll immer bis unten gehen ohne Scrollen (s. About)
-# Navigation aktiver Punkt muss grün bleiben
+- Profil füllen about.md
+- Footer soll immer bis unten gehen ohne Scrollen (s. About)
+- Navigation aktiver Punkt muss grün bleiben
+
+Maybe / someday:
+- Navigation wie droxic.com mit Farbe #4fb56e als Hintergrund 80-90% und Schriftfarbe weiß evtl. größere Schrift
