@@ -29,8 +29,9 @@
   text-transform:uppercase;
   color:$brand-color;
   font-family:OpenSans-CondBold, sans-serif;
-  padding: 2.5em 0 0 1.2em;
+  padding: 2.5em 0 0 0.85em;
   line-height: 1em;
+  font-size:1.4em;
   @include media-query($on-palm) {
     float:none;
     padding-left:9em;
@@ -39,8 +40,9 @@
 .profile-talent {
   float:left;
   color:$grey-color;
-  padding-left:1.2em;
-  font-family:OpenSans-CondLight,sans-serif;
+  padding-left:1.6em;
+  font-family:sans-serif;
+  font-size:.75em;
   @include media-query($on-palm) {
     padding-left:9em;
     float:none;
