@@ -31,7 +31,10 @@
       color: $brand-color;
       text-decoration:none;
   }
-}
+     @include media-query($on-palm) {
+      font-size: 20px;
+     }
+}  
 .site-subtitle {
   display:block;
   font-size: 13px;
@@ -40,6 +43,10 @@
     color: lighten($grey-color,20%);
     text-decoration:none;
   }
+       @include media-query($on-palm) {
+        font-size: 12px;
+        line-height: 12px; 
+       }
 }
 
 .page-link {
