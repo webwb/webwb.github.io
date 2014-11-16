@@ -1,10 +1,12 @@
 André:
 # Design für das Archiv ähnlich http://daringfireball.net/archive/ erstellen
 # Profil füllen about.md
+# Für die Logos im Footer ein Mouseover dunkelgrün
 
 Erledigt:
 @done # SVG für Footer (Neue PNG mit 2KB hinzugefügt und Farbe)
 @done # Copyright Font checken und Impressum PLatzierung
+@done # NaviBurger überdeckt Logo
 
 
 Nils:
@@ -13,6 +15,7 @@ Nils:
 - Footer soll immer bis unten gehen ohne Scrollen (s. About) // !! Dieses Problem ist irgendwie weg. // Problem besteht weiter auf meinem iMac daheim ;) Liegt denke ich an der Bildschirmgröße
 - Footer col2 entsprechend der mail anpassen
 - Name und Untertitel im Profil verschiebt sich
+- Ein Zurück Button für die Artikeldetailseite wie next und previous
 
 
 Erledigt:
