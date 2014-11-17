@@ -177,3 +177,19 @@ pre {
         clear: both;
     }
 }
+
+/**
+ * Extend to bottom http://stackoverflow.com/a/23986464
+ */
+html, body {
+  height:100%;
+  display: flex;
+  flex-direction: column;
+ }
+body > * {
+  flex-shrink: 0;
+}
+
+footer {
+  flex-grow: 1;
+}
