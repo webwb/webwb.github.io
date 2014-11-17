@@ -1,12 +1,13 @@
 André:
 # Design für das Archiv ähnlich http://daringfireball.net/archive/ erstellen
 # Profil füllen about.md
-# Für die Logos im Footer ein Mouseover dunkelgrün
 
 Erledigt:
 @done # SVG für Footer (Neue PNG mit 2KB hinzugefügt und Farbe)
 @done # Copyright Font checken und Impressum PLatzierung
 @done # NaviBurger überdeckt Logo
+@done # Für die Logos im Footer ein Mouseover dunkelgrün
+
 
 
 Nils:
