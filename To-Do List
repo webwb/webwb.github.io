@@ -13,14 +13,15 @@ Erledigt:
 Nils:
 - Profil füllen about.md
 - Links für Übersicht und Artikel teilen (base.scss)
-- Footer soll immer bis unten gehen ohne Scrollen (s. About) // !! Dieses Problem ist irgendwie weg. // Problem besteht weiter auf meinem iMac daheim ;) Liegt denke ich an der Bildschirmgröße
-- Footer col2 entsprechend der mail anpassen
 - Name und Untertitel im Profil verschiebt sich
 - Ein Zurück Button für die Artikeldetailseite wie next und previous
 
 
 Erledigt:
-- @done Navigation aktiver Punkt muss grün bleiben
+@done Navigation aktiver Punkt muss grün bleiben
+@dome Footer soll immer bis unten gehen ohne Scrollen (s. About) // !! Dieses Problem ist irgendwie weg. // Problem besteht weiter auf meinem iMac daheim ;) Liegt denke ich an der Bildschirmgröße
+@done Footer col2 entsprechend der mail anpassen
+
 
 
 Maybe / someday:
