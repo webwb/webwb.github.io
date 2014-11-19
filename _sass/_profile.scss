@@ -62,6 +62,7 @@
 .profile-skills,
 .profile-contacts {
   padding-top:2em;
+  text-align:justify;
 }
 .profile-contacts {
   .circle {
@@ -97,5 +98,27 @@
     content: "";
     width: 100%;
     display: inline-block;
+  }
+}
+
+@include media-query(710px) {
+  .profile {
+    text-align:center;
+    .profile-photo,
+    .profile-name,
+    .profile-talent {
+      float:none;
+      padding:0;
+      margin:0 auto;
+    }
+    .profile-name {
+      padding-top:1em;
+    }
+    .profile-contacts ul li:first-child {
+      margin-left:1em;
+    }
+    .profile-contacts ul li:last-child {
+      margin-right:1em;
+    }
   }
 }
