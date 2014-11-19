@@ -7,14 +7,24 @@
   {% endif %}
 </div> -->
 
-{% if paginator.total_pages > 1 %}
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a>
+  {% if paginator.total_pages > 1 %}
+    {% if paginator.previous_page %}
+      <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
+    {% endif %}
+
   {% endif %}
 
-  {% if paginator.next_page %}
-    <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
+  {% if page.next %}
+    <a class="previous" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">Newer Post</a>
+  {% endif %}
+
+
+  {% if page.previous %}
+    <a class="previous" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">Older Post</a>
   {% endif %}
 </div>
-{% endif %}

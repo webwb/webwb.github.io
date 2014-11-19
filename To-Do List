@@ -13,16 +13,14 @@ Erledigt:
 Nils:
 - Profil füllen about.md
 - Links für Übersicht und Artikel teilen (base.scss)
-- Name und Untertitel im Profil verschiebt sich
-- Ein Zurück Button für die Artikeldetailseite wie next und previous
 
 
 Erledigt:
 @done Navigation aktiver Punkt muss grün bleiben
 @dome Footer soll immer bis unten gehen ohne Scrollen (s. About) // !! Dieses Problem ist irgendwie weg. // Problem besteht weiter auf meinem iMac daheim ;) Liegt denke ich an der Bildschirmgröße
 @done Footer col2 entsprechend der mail anpassen
-
-
+@done Name und Untertitel im Profil verschiebt sich
+@done Ein Zurück Button für die Artikeldetailseite wie next und previous
 
 Maybe / someday:
 - Navigation wie droxic.com mit Farbe #4fb56e als Hintergrund 80-90% und Schriftfarbe weiß evtl. größere Schrift

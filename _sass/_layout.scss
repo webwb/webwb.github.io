@@ -80,21 +80,16 @@
         font-size: 36px;
     }
 }
-
 .post-content {
     // margin-bottom: $spacing-unit;
-
     h3 {
         font-size: 26px;
-
         @include media-query($on-laptop) {
             font-size: 22px;
         }
     }
-
     h4 {
         font-size: 20px;
-
         @include media-query($on-laptop) {
             font-size: 18px;
         }
