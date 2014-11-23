@@ -20,14 +20,14 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(70% - (#{$spacing-unit} / 2));
-    width:         calc(70% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(68% - (#{$spacing-unit} / 2));
+    width:         calc(68% - (#{$spacing-unit} / 2));
     line-height:.875em;
 }
 
 .footer-col-2 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(32% - (#{$spacing-unit} / 2));
+    width:         calc(32% - (#{$spacing-unit} / 2));
 }
 
 
@@ -91,7 +91,7 @@ ul.build-with-list {
   img {
     float:left;
     height:1.6em;
-    padding-right:.4em;
+    padding-right:.6em;
   }
 
   @include media-query($on-palm) {

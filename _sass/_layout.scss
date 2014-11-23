@@ -72,10 +72,12 @@
 }
 
 .post-title {
-    font-size: 42px;
+    color: #4fb56e;
+    font-family: OpenSans-CondBold;
+    font-size: 35px;
     letter-spacing: -1px;
     line-height: 1;
-
+    margin-bottom: 6px;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -83,7 +85,11 @@
 .post-content {
     // margin-bottom: $spacing-unit;
     h3 {
-        font-size: 26px;
+        color: #4fb56e;
+        font-family: OpenSans-CondBold;
+        font-size: 35px;
+        letter-spacing: -1px;
+        line-height: 1;
         @include media-query($on-laptop) {
             font-size: 22px;
         }

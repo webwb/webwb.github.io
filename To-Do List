@@ -13,7 +13,11 @@ Erledigt:
 Nils:
 - Profil füllen about.md
 - Links für Übersicht und Artikel teilen (base.scss)
-
+- Older Post geht nicht und umbenennen in "Previous Story" und "Next Story"
+- Footerverhalten bei etwa 700px merkwürdig (Abstände links und rechts von den Cols)
+- Datum in der Übersicht, Artikel und Archiv einheitlich machen (s. Mail)
+- Breakpoint bei 800 auch für banner mittig (center)
+- http://codepen.io/neslob/pen/XJJZgP Bilder hover
 
 Erledigt:
 @done Navigation aktiver Punkt muss grün bleiben

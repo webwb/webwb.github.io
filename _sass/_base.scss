@@ -183,13 +183,20 @@ pre {
  */
 html, body {
   height:100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
+   -webkit-flex-direction: column;
   flex-direction: column;
  }
 body > * {
+  -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
 
 footer {
+  -webkit-flex-grow: 1;
   flex-grow: 1;
 }

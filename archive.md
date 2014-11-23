@@ -7,7 +7,7 @@ navigation: archive
 ---
 
 <section id="archive">
-  <h3>All posts</h3>
+  <h3>2014</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this">
