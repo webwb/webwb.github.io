@@ -7,9 +7,10 @@ navigation: archive
 ---
 
 <section id="archive">
-  <h3>2014</h3>
+
   {%for post in site.posts %}
     {% unless post.next %}
+    <h3>{{ post.date | date: '%Y' }}</h3>
       <ul class="this">
     {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -20,7 +21,7 @@ navigation: archive
         <ul class="past">
       {% endif %}
     {% endunless %}
-      <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><time>{{ post.date | date:"%d.%m.%Y" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
 </section>
