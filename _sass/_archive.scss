@@ -1,0 +1,23 @@
+#archive {
+    ul {
+        list-style:none;
+        margin:0;
+    }
+    h3,h4 {
+        padding:0;
+        margin:0;
+        color: $brand-color;
+        font-family: OpenSans-CondBold;
+        letter-spacing: -1px;
+        line-height: 1;
+    }
+    h3 {
+        font-size: 2.1875em;
+        margin-bottom:.5em;
+    }
+    h4 {
+        font-size:1.25em;
+        margin-bottom:.25em;
+    }
+
+}
