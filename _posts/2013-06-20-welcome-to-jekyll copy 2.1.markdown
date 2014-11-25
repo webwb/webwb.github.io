@@ -5,6 +5,7 @@ date:   2012-02-20 17:29:59
 author: André Borges
 image: sample-subway-640x360.jpg
 categories: jekyll update
+tags: photo ice-cream
 ---
 Turns out he ended up getting too friendly with the teddy bear. If I look like a man who made love to his wife last night – it's because I almost did. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to. They're not gonna strip, right? I told them not to, but I can't guarantee their instincts won't kick in. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!
 
