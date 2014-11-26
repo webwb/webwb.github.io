@@ -46,7 +46,6 @@ window.onload = function() {
   var tag = getParameterByName('tag');
   if (tag && document.getElementById('tag-' + tag)) {
 
-
     var tags = document.getElementsByTagName('li');
     for (var i=0; i<tags.length; i++) {
       if ( tags[i].className === 'tag') {
@@ -58,11 +57,6 @@ window.onload = function() {
     document.getElementById('seeAllTags').style.display = 'block';
     document.getElementById('tagTitle').innerHTML = 'Posts tagged with: ' + tag;
 
-  } else {
-    document.getElementById('tagTitle').innerHTML = '<h2>Illegal Tag Query</h2>will redirect to home page in a second.';
-    setTimeout(function(){
-      document.location.href = "/";
-    },4000);
   }
 };
 </script>
