@@ -52,21 +52,20 @@ navigation: about
 </div>
 
 <div class="profile">
-  <img class="profile-photo" src="/images/face.jpg" alt="just some random face"/>
+  <img class="profile-photo" src="/images/andreface.png" alt="just some random face"/>
   <div class="profile-name">André Borges</div>
   <div class="profile-talent">Self taught anything web</div>
   <div class="profile-bio">
-      Nils Bolsen, born 29th June 1975. Private life: wife, kids, sirfing, cycling, walking around the city. Professional life: manage, support, run and evolve  the intranet of europeans largest airline carrier.
+      André Borges, born on the third of August 1989. Private life: wife, kids, sirfing, cycling, walking around the city. Professional life: manage, support, run and evolve  the intranet of europeans largest airline carrier.
   </div>
   <div class="profile-skills">
     <h2>Skills</h2>
     <ul>
+      <li>Adobe Photoshop</li>
       <li>HTML</li>
+      <li>Adobe Illustrator</li>
       <li>CSS</li>
-      <li>JS</li>
-      <li>Adobe CQ5</li>
-      <li>Linux Operations</li>
-      <li>WPO</li>
+      <li>Adobe AEM</li>
     </ul>
   </div>
   <div class="profile-contacts">

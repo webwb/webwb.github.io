@@ -22,6 +22,7 @@
 .profile-photo  {
   border-radius:50%;
   float:left;
+  width:128px;
 }
 
 .profile-name {
@@ -62,7 +63,7 @@
 .profile-skills,
 .profile-contacts {
   padding-top:2em;
-  text-align:justify;
+  //text-align:justify;
 }
 .profile-contacts {
   .circle {
