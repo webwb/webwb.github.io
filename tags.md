@@ -4,37 +4,8 @@ title: Tags
 permalink: /tags/
 class: tags
 ---
-{% capture site_tags %}
-{% for p in site.tags %}
-{{ p[0] }}
-{% endfor %}
-{% endcapture %}
-{% assign sortedtags = site_tags | split:' ' | sort %}
-
-<h2 id="tagTitle">Searching ...</h2>
-<section>
-{% if site.tags %}
-  <ul>
-    {% for tag in sortedtags %}
-      <li class="tag" id="tag-{{ tag }}">Posts tagged with: {{ tag }}
-      <ul>
-        {% for post in site.tags[tag] %}
-          <li><a href="{{ post.url }}/">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-      </li>
-    {% endfor %}
-  </ul>
-{% endif %}
-
-<a id="seeAllTags" href="/tags/">all Tags</a>
-
-</section>
-
-
-
-
 <script>
+// http://stackoverflow.com/a/901144
 function getParameterByName(name) {
   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
   var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
@@ -61,12 +32,36 @@ window.onload = function() {
 };
 </script>
 
+{% capture site_tags %}
+  {% for p in site.tags %}
+    {{ p[0] }}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sortedtags = site_tags | split:' ' | sort %}
+
+<h2 id="tagTitle">Searching ...</h2>
+<section>
+{% if site.tags %}
+  <ul>
+    {% for tag in sortedtags %}
+      <li class="tag" id="tag-{{ tag }}">
+          <h4><i class="fa fa-tag"></i>&nbsp;&nbsp;{{ tag }}</h4>
+      <ul>
+        {% for post in site.tags[tag] %}
+          <li>{{ post.date | date:"%d.%m.%Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<a id="seeAllTags" href="/tags/">all Tags</a>
+
+</section>
 
 
-<style>
 
-#tagTitle,
-#seeAllTags {
-  display:none;
-}
-</style>
+
+
