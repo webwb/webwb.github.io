@@ -1,6 +1,8 @@
 André:
 # Design für das Archiv ähnlich http://daringfireball.net/archive/ erstellen
 # Profil füllen about.md
+# Typo http://webwb-github-io-webwb.c9.io/2014/07/25/sample-markdown.html
+# Impressum check
 
 Erledigt:
 @done # SVG für Footer (Neue PNG mit 2KB hinzugefügt und Farbe)
@@ -18,6 +20,7 @@ Nils:
 - Datum in der Übersicht, Artikel und Archiv einheitlich machen (s. Mail)
 - Breakpoint bei 800 auch für banner mittig (center)
 - http://codepen.io/neslob/pen/XJJZgP Bilder hover
+- tabelle geht nicht http://webwb-github-io-webwb.c9.io/2014/07/25/sample-markdown.html
 
 Erledigt:
 @done Navigation aktiver Punkt muss grün bleiben

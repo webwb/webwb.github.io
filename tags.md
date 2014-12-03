@@ -60,8 +60,3 @@ window.onload = function() {
 <a id="seeAllTags" href="/tags/">all Tags</a>
 
 </section>
-
-
-
-
-
