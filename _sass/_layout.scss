@@ -84,6 +84,9 @@
 }
 .post-content {
     // margin-bottom: $spacing-unit;
+    h1, h2 {
+        color: #4fb56e;
+    }
     h3 {
         color: #4fb56e;
         font-family: OpenSans-CondBold;
@@ -99,5 +102,11 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+    h5 {
+        color: #4fb56e;
+    }
+    h6 {
+        color: #4fb56e;
     }
 }

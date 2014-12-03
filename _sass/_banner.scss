@@ -24,12 +24,13 @@
 background: #FFF;
 }
 
-@include media-query($on-palm) {
+@include media-query($on-laptop) {
   .site-banner {
     text-align:center;
-    h2 {
-      display:none;
-
+    @include media-query($on-palm) {
+      h2 {
+        display:none;
+      }
     }
   }
 }
