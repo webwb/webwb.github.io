@@ -20,11 +20,10 @@
   {% endif %}
 
   {% if page.next %}
-    <a class="previous" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">Newer Post</a>
+    <a class="previous" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">Previous Post</a>
   {% endif %}
 
-
   {% if page.previous %}
-    <a class="previous" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">Older Post</a>
+    <a class="previous" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">Next Post</a>
   {% endif %}
 </div>
