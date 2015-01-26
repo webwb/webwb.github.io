@@ -123,3 +123,17 @@
     }
   }
 }
+@include media-query($on-palm) {
+  .profile .profile-contacts ul {
+    text-align: center;
+    li {
+      padding:1em;
+    }
+    li:first-child {
+      margin-left:0;
+    }
+    li:last-child {
+      margin-right:0;
+    }
+  }
+}
