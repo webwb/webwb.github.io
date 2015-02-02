@@ -56,8 +56,10 @@ navigation: about
   <div class="profile-name">André Borges</div>
   <div class="profile-talent">Self taught anything web</div>
   <div class="profile-bio">
-      André Borges, born on the third of August 1989. Private life: wife, kids, sirfing, cycling, walking around the city. Professional life: manage, support, run and evolve  the intranet of europeans largest airline carrier.
-  </div>
+    I'm 25 years old and living in Frankfurt.
+    Currently i'm working for one of the biggest technology companies of the world.
+    I'm responsible for the internal intranet development of europeans largest airline carrier.
+    In my leisure time i like to take a tour with my bike and take photos with my camera.  </div>
   <div class="profile-skills">
     <h2>Skills</h2>
     <ul>
@@ -72,23 +74,23 @@ navigation: about
     <h2>Contact</h2>
     <ul>
       <li>
-        <a href="" class="fa-stack fa-2x circle">
-          <i class="fa fa-twitter fa-stack-1x"></i>
+        <a href="mailto:cpne@me.com" class="fa-stack fa-2x circle">
+          <i class="fa fa-envelope-o fa-stack-1x"></i>
         </a>
       </li>
       <li>
-        <a href="" class="fa-stack fa-2x circle">
-          <i class="fa fa-github fa-stack-1x"></i>
-        </a>
-      </li>
-      <li>
-        <a href="" class="fa-stack fa-2x circle">
+        <a href="https://www.linkedin.com/in/borgesandre" class="fa-stack fa-2x circle">
           <i class="fa fa-linkedin fa-stack-1x"></i>
         </a>
       </li>
       <li>
-        <a href="" class="fa-stack fa-2x circle">
-         <i class="fa fa-google-plus fa-stack-1x"></i>
+        <a href="https://www.xing.com/profile/Andre_Borges" class="fa-stack fa-2x circle">
+         <i class="fa fa-xing fa-stack-1x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="http://cpne.vsco.co/" class="fa-stack fa-2x circle">
+          <i class="fa fa-camera fa-stack-1x"></i>
         </a>
       </li>
     </ul>
