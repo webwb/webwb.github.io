@@ -56,7 +56,7 @@ navigation: about
   <div class="profile-name">André Borges</div>
   <div class="profile-talent">Self taught anything web</div>
   <div class="profile-bio">
-    I'm 25 years old and living in Frankfurt.
+    I'm 25 years old and living in Bad Homburg.
     Currently i'm working for one of the biggest technology companies of the world.
     I'm responsible for the internal intranet development of europeans largest airline carrier.
     In my leisure time i like to take a tour with my bike and take photos with my camera.  </div>
@@ -75,7 +75,7 @@ navigation: about
     <ul>
       <li>
         <a href="mailto:cpne@me.com" class="fa-stack fa-2x circle">
-          <i class="fa fa-envelope-o fa-stack-1x"></i>
+          <i class="fa fa-pencil-square-o fa-stack-1x"></i>
         </a>
       </li>
       <li>
