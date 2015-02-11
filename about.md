@@ -54,7 +54,7 @@ navigation: about
 <div class="profile">
   <img class="profile-photo" src="/images/andreface.png" alt="just some random face"/>
   <div class="profile-name">André Borges</div>
-  <div class="profile-talent">Self taught anything web</div>
+  <div class="profile-talent">Native Webworker</div>
   <div class="profile-bio">
     I'm 25 years old and living in Bad Homburg.
     Currently i'm working for one of the biggest technology companies of the world.
