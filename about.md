@@ -7,11 +7,11 @@ navigation: about
 ---
 
 <div class="profile">
-  <img class="profile-photo" src="/images/face.jpg" alt="just some random face"/>
+  <img class="profile-photo" src="/images/nils.jpg" alt="Nils on the Beach"/>
   <div class="profile-name">Nils Bolsen</div>
   <div class="profile-talent">Self taught anything web</div>
   <div class="profile-bio">
-      Nils Bolsen, born 29th June 1975. Private life: wife, kids, sirfing, cycling, walking around the city. Professional life: manage, support, run and evolve  the intranet of europeans largest airline carrier.
+      Nils Bolsen, born 29th June 1975. Private life: wife, kids, surfing, cycling, tours around the city. Professional life: manage, support, run and evolve the intranet of europeans largest airline carrier.
   </div>
   <div class="profile-skills">
     <h2>Skills</h2>
@@ -27,26 +27,31 @@ navigation: about
   <div class="profile-contacts">
     <h2>Contact</h2>
     <ul>
+        <li>
+        <a href="mailto:nils.bolsen@gmail.com" title="write me a mail" class="fa-stack fa-2x circle">
+          <i class="fa fa-pencil-square-o fa-stack-1x"></i>
+        </a>
+      </li>
       <li>
         <a href="" class="fa-stack fa-2x circle">
           <i class="fa fa-twitter fa-stack-1x"></i>
         </a>
       </li>
       <li>
-        <a href="" class="fa-stack fa-2x circle">
+        <a href="https://github.com/webwb" class="fa-stack fa-2x circle">
           <i class="fa fa-github fa-stack-1x"></i>
         </a>
       </li>
-      <li>
-        <a href="" class="fa-stack fa-2x circle">
-          <i class="fa fa-linkedin fa-stack-1x"></i>
-        </a>
-      </li>
-      <li>
-        <a href="" class="fa-stack fa-2x circle">
-         <i class="fa fa-google-plus fa-stack-1x"></i>
-        </a>
-      </li>
+      <!--<li>-->
+      <!--  <a href="" class="fa-stack fa-2x circle">-->
+      <!--    <i class="fa fa-linkedin fa-stack-1x"></i>-->
+      <!--  </a>-->
+      <!--</li>-->
+      <!--<li>-->
+      <!--  <a href="" class="fa-stack fa-2x circle">-->
+      <!--   <i class="fa fa-google-plus fa-stack-1x"></i>-->
+      <!--  </a>-->
+      <!--</li>-->
     </ul>
   </div>
 </div>
