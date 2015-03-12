@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-date: 
-  - {}
+date: "2015-03-12 13:57:00"
 title: hi
+link: enter link here
 ---
 
 ## A New Post
