@@ -41,15 +41,25 @@ prose:
           label: "Link"
           value: "enter link here"
       - name: "author"
-           field:
-             element: "select"
-             label: "Who are you ?"
-             placeholder: "Choose your name"
-             options:
-               - name: "André"
-                 value: "André Borges"
-               - name: "Nils"
-                 value: "Nils Bolsen"
+        field:
+          element: "select"
+          label: "Who are you ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "André"
+              value: "André Borges"
+            - name: "Nils"
+              value: "Nils Bolsen
+      - name: "image"
+        field:
+          element: "select"
+          label: "teaser_image"
+          placeholder: "please select an image for the teaser"
+            options:
+              - name: "subway"
+                value: "sample-subway-640x360.jpg"
+              - name: "subway2"
+                value: "sample-subway-640x360.jpg"
 
 
 
