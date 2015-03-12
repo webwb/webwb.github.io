@@ -15,3 +15,6 @@ paginate: 5
 markdown: kramdown
 exclude: [".c9"]
 author1: andre
+# prose
+prose:
+  rooturl: '_posts'
