@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "hello world!"
-date: {}
+date: 2015-03-12 
 author: André Borges
 image: "sample-tokyo-640x360.jpg"
 tags: jekyll update
