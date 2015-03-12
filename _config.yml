@@ -25,41 +25,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: "enter title here"
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date (YYYY-MM-DD HH:MM:SS)"
-          value: CURRENT_DATETIME
-      - name: "link"
-        field:
-          element: "text"
-          label: "Link"
-          value: "enter link here"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Who are you ?"
-          placeholder: "Choose your name"
-          options:
-            - name: "André"
-              value: "André Borges"
-            - name: "Nils"
-              value: "Nils Bolsen
-      - name: "image"
-        field:
-          element: "select"
-          label: "teaser_image"
-          placeholder: "please select an image for the teaser"
-            options:
-              - name: "subway"
-                value: "sample-subway-640x360.jpg"
-              - name: "subway2"
-                value: "sample-subway-640x360.jpg"
 
 
 
