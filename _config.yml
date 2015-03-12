@@ -18,3 +18,4 @@ author1: andre
 # prose
 prose:
   rooturl: '_posts'
+  media: 'images'
