@@ -2,7 +2,7 @@
 layout: post
 title: "hello world!"
 date: 2015-03-12 
-author: André Borges
+author: Nils Bolsen
 image: "sample-tokyo-640x360.jpg"
 tags: jekyll update
 published: true
