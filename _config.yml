@@ -21,19 +21,24 @@ prose:
   media: 'images'
   metadata:
     _posts:
-         - name: "layout"
-           field:
-             element: "hidden"
-             value: "post"
-         - name: "title"
-           field:
-             element: "text"
-             label: "title"
-         # - name: "date"
-         #   field:
-         #     element: "text"
-         #     label: "Date (YYYY-MM-DD HH:MM:SS)"
-         #     value: CURRENT_DATETIME
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date (YYYY-MM-DD HH:MM:SS)"
+          value: CURRENT_DATETIME
+      - name: "link"
+        field:
+          element: "text"
+          label: "Link"
+          value: "enter link here"
 
 
 
