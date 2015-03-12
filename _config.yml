@@ -29,3 +29,7 @@ prose:
            field:
              element: "text"
              label: "title"
+         - name: "date"
+           field:
+              element: "text"
+              value: CURRENT_DATETIME
