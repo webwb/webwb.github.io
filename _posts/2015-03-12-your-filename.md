@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 date: "2015-03-12 13:57:00"
 title: "hi - Lorem ipsum dolor"
 link: enter link here
