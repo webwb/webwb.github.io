@@ -29,6 +29,7 @@ prose:
         field:
           element: "text"
           label: "title"
+	  value: "enter title here"
       - name: "date"
         field:
           element: "text"
