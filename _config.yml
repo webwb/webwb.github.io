@@ -29,7 +29,7 @@ prose:
         field:
           element: "text"
           label: "title"
-	  value: "enter title here"
+          value: "enter title here"
       - name: "date"
         field:
           element: "text"
@@ -40,6 +40,16 @@ prose:
           element: "text"
           label: "Link"
           value: "enter link here"
+      - name: "author"
+           field:
+             element: "select"
+             label: "Who are you ?"
+             placeholder: "Choose your name"
+             options:
+               - name: "André"
+                 value: "André Borges"
+               - name: "Nils"
+                 value: "Nils Bolsen"
 
 
 
