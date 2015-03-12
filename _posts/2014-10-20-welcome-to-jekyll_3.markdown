@@ -1,20 +1,25 @@
 ---
 layout: post
-title:  "hello world!"
-date:   2014-11-12 17:29:59
+title: "hello world!"
+date: {}
 author: André Borges
-image: sample-tokyo-640x360.jpg
+image: "sample-tokyo-640x360.jpg"
 tags: jekyll update
+published: true
 ---
 
-dfgfdg  dfhfdgdfgdf
-dfgdfgdfg
+The editor looks quite nice. It seems to support Markdown. 
 
-# Heading 1
+## Let's try to make this a H2
 
-dfgdfgdfgdfg d fgdfg dfg dfg fgdfgdfg
+Paragraph inserting an image
 
-## Heading 2
 
-dfgdfg fdg
 
+
+
+
+
+
+  
+  
