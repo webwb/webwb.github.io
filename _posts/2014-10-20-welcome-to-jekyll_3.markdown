@@ -14,12 +14,3 @@ The editor looks quite nice. It seems to support Markdown.
 
 Paragraph inserting an image
 
-
-
-
-
-
-
-
-  
-  
