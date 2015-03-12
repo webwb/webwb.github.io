@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## A New Post
@@ -10,8 +10,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 2. item
 3. item
 
+test paragraph. 
 
-### h3 
-
-
-
+### h3
