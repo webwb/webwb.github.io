@@ -4,6 +4,7 @@ published: true
 date: "2015-03-12 13:57:00"
 title: "Hallo Andre - Lorem ipsum dolor"
 link: enter link here
+image: "GitHub-Mark-32px.png"
 ---
 
 ## A New Post
