@@ -10,6 +10,8 @@ link: enter link here
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
+![GitHub-Mark-32px.png](/images/GitHub-Mark-32px.png)
+
 1. item
 2. item
 3. item
