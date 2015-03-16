@@ -2,7 +2,7 @@
 layout: post
 published: true
 date: "2015-03-12 13:57:00"
-title: "HIIII - Lorem ipsum dolor"
+title: "Hallo Andre - Lorem ipsum dolor"
 link: enter link here
 ---
 
