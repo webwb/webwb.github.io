@@ -2,17 +2,24 @@
 layout: post
 published: true
 date: "2015-03-12 13:57:00"
-title: "HIIII - Lorem ipsum dolor"
+title: "Hallo Andre - Lorem ipsum dolor"
 link: enter link here
+image: "GitHub-Mark-32px.png"
 ---
 
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
+![GitHub-Mark-32px.png](/images/GitHub-Mark-32px.png)
+
 1. item
 2. item
 3. item
+4. Fünf
+
+![ACL.png](/images/ACL.png)
+
 
 test paragraph.
 
