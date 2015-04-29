@@ -35,7 +35,14 @@ prose:
               value: "André Borges"
             - name: "Nils"
               value: "Nils Bolsen"
-
-
+      - name: "published"
+        field:
+          element: "select"
+          label: "Publish or Draft?"
+          options:
+            - name: "Publish"
+              value: "true"
+            - name: "Draft"
+              value: "false"
 
 
