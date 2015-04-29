@@ -142,7 +142,7 @@ ul.build-with-list {
 .sasslogo         { 
   background-image: url('/images/sasslogo.svg'); 
   &:before { 
-    background-image: url('/images/sasslogo_hover.svg');
+    content: url('/images/sasslogo_hover.svg');
     width:0;
     height:0;
     visibility:hidden; 
