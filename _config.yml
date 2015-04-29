@@ -25,6 +25,16 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "Andre"
+              value: "André Borges"
+            - name: "Nils"
+              value: "Nils Bolsen"
 
 
 
