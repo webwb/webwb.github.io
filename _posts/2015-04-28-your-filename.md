@@ -1,12 +1,16 @@
 ---
 layout: post
-published: true
+published: 
+  - true
+  - "false"
 author: André Borges
 ---
 
-## A New Post
+## CHANGED THIS
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+Finally
 
 Dropping Images
 
