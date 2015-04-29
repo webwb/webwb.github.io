@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: André Borges
 categories: life
 image: "crx-mongo.png"
