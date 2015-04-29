@@ -10,4 +10,11 @@ image: "crx-mongo.png"
 
 grrr!
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+hier kommen Inhalte rein.
+
+1. Entwicklung auf c9
+2. Verwaltung auf github
+3. engine github pages using jekyll
+4. custom url
+5. prose.io for new content
+
