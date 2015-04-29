@@ -6,7 +6,7 @@ categories: life
 image: "crx-mongo.png"
 ---
 
-## A New Post
+## this pages lifecycle stack
 
 grrr!
 
