@@ -36,15 +36,15 @@ prose:
               value: "André Borges"
             - name: "Nils"
               value: "Nils Bolsen"
-      - name: "categories"
-        field:
-          element: "select"
-          label: "Kategorie"
-          options:
-            - name: "Real Life"
-              value: "life"
-            - name: "Digital Life"
-              value: "digital"
+      # - name: "categories"
+      #   field:
+      #     element: "select"
+      #     label: "Kategorie"
+      #     options:
+      #       - name: "Real Life"
+      #         value: "life"
+      #       - name: "Digital Life"
+      #         value: "digital"
       - name: "image"
         field:
           element: "text"
