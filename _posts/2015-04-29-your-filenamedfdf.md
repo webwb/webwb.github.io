@@ -3,7 +3,7 @@ layout: post
 published: true
 author: André Borges
 categories: digital
-image: preview1x1null.png
+image: ""
 ---
 
 ## Meine erste Überschrift
