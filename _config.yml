@@ -41,7 +41,10 @@ prose:
           element: "text"
           label: "Titel des Posts"
           type: "text"
-          help: "bleibt des Feld leer, wird der Titel aus der URL genommen"
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
       - name: "categories"
         field:
           element: "select"
