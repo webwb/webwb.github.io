@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+author: André Borges
 ---
 
 ## A New Post
@@ -10,5 +11,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Dropping Images
 
 ![crx-mongo.png](/images/crx-mongo.png)
-
-
