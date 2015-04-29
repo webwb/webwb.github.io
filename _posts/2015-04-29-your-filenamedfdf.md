@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: André Borges
 categories: digital
 image: preview1x1null.png
