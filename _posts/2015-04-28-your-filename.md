@@ -1,10 +1,12 @@
 ---
 layout: post
-published: true
-author: André Borges
+published: 
+  - true
+  - "false"
+author: Nils Bolsen
 ---
 
-## A New Post
+## CHANGED THIS
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
