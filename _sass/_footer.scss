@@ -139,8 +139,18 @@ ul.build-with-list {
   background-repeat: no-repeat;
 }
 
-.sasslogo         { background-image: url('/images/sasslogo.svg'); }
-.sasslogo:hover   { background-image: url('/images/sasslogo_hover.svg'); }
+.sasslogo         { 
+  background-image: url('/images/sasslogo.svg'); 
+  &:before { 
+    background-image: url('/images/sasslogo_hover.svg');
+    width:0;
+    height:0;
+    visibility:hidden; 
+  }
+  &:hover { 
+    background-image: url('/images/sasslogo_hover.svg');
+  }
+}
 .githublogo       { background-image: url('/images/githublogo.svg'); }
 .githublogo:hover { background-image: url('/images/githublogo_hover.svg'); }
 .jekylllogo       { background-image: url('/images/jekylllogo_flat_tube.svg'); }
