@@ -145,15 +145,45 @@ ul.build-with-list {
     content: url('/images/sasslogo_hover.svg');
     width:0;
     height:0;
-    visibility:hidden; 
+    display:none;
   }
   &:hover { 
     background-image: url('/images/sasslogo_hover.svg');
   }
 }
-.githublogo       { background-image: url('/images/githublogo.svg'); }
-.githublogo:hover { background-image: url('/images/githublogo_hover.svg'); }
-.jekylllogo       { background-image: url('/images/jekylllogo_flat_tube.svg'); }
-.jekylllogo:hover { background-image: url('/images/jekylllogo_flat_tube_hover.svg'); }
-.c9logo           { background-image: url('/images/cloud9logo.svg'); }
-.c9logo:hover     { background-image: url('/images/cloud9logo_hover.svg'); }
+.githublogo       { 
+  background-image: url('/images/githublogo.svg'); 
+  &:before { 
+    content: url('/images/githublogo_hover.svg');
+    width:0;
+    height:0;
+    display:none;
+  }
+  &:hover { 
+    background-image: url('/images/githublogo_hover.svg');
+  }  
+}
+.jekylllogo       { 
+  background-image: url('/images/jekylllogo_flat_tube.svg'); 
+    &:before { 
+    content: url('/images/jekylllogo_flat_tube_hover.svg');
+    width:0;
+    height:0;
+    display:none;
+  }
+  &:hover { 
+    background-image: url('/images/jekylllogo_flat_tube_hover.svg');
+  }  
+}
+.c9logo           { 
+  background-image: url('/images/cloud9logo.svg'); 
+      &:before { 
+    content: url('/images/cloud9logo_hover.svg');
+    width:0;
+    height:0;
+    display:none;
+  }
+  &:hover { 
+    background-image: url('/images/cloud9logo_hover.svg');
+  } 
+}
