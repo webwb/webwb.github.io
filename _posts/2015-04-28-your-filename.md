@@ -1,9 +1,9 @@
 ---
 layout: post
-published: 
-  - true
-  - "false"
+published: true
 author: André Borges
+categories: life
+image: "crx-mongo.png"
 ---
 
 ## CHANGED THIS
