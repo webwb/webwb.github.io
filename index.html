@@ -10,7 +10,10 @@ navigation: home
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <img class="post-image" src="/images/{{ post.image }}" />  <article class="post-teaser">
+        {% if post.image %}
+          <img class="post-image" src="/images/{{ post.image }}" />
+        {% endif %}
+        <article class="post-teaser">
           <span class="post-author">{{ post.author }}</span>
           <span class="post-meta">on {{ post.date | date: "%d/%m/%Y" }}</span>
           <h2>
