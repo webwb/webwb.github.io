@@ -37,11 +37,11 @@ prose:
             - name: "Nils"
               value: "Nils Bolsen"
       - name: "title"
-      field:
-        element: "text"
-        label: "Titel des Posts"
-        type: "text"
-        help: "bleibt des Feld leer, wird der Titel aus der URL genommen"
+        field:
+          element: "text"
+          label: "Titel des Posts"
+          type: "text"
+          help: "bleibt des Feld leer, wird der Titel aus der URL genommen"
       - name: "categories"
         field:
           element: "select"
