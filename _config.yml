@@ -18,7 +18,7 @@ author1: andre
 # prose
 prose:
   rooturl: '_posts'
-  siteurl: 'http://webworkers.io/'
+  # siteurl: 'http://webworkers.io/'
   media: 'images'
   metadata:
     _posts:
