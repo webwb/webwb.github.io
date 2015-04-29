@@ -54,6 +54,8 @@ prose:
               value: "life"
             - name: "Digital Life"
               value: "digital"
+            - name: "Online Life"
+              value: "online"
       - name: "image"
         field:
           element: "text"
