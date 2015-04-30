@@ -33,7 +33,7 @@ navigation: about
         </a>
       </li>
       <li>
-        <a href="" class="fa-stack fa-2x circle">
+        <a href="https://twitter.com/neslob" class="fa-stack fa-2x circle">
           <i class="fa fa-twitter fa-stack-1x"></i>
         </a>
       </li>
