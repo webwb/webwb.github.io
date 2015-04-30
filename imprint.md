@@ -7,26 +7,31 @@ class: imprint
 
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
-<p>Max Mustermann<br />
-Mustergasse 32<br />
-12355 Musterdorf
+<p>André Borges<br />
+Urseler Str. 32<br />
+61348 Bad Homburg
+</p>
+<p>Nils Bolsen<br />
+Herder Str. 14<br />
+60316 Frankfurt am Main
 </p>
 <h2>Kontakt:</h2>
 <table><tr>
 <td>Telefon:</td>
-<td>01234-45-23</td></tr>
+<td>-</td></tr>
 <tr><td>E-Mail:</td>
-<td>mail@musterdorf.de</td>
+<td>&#99;&#112;&#110;&#101;&#64;&#109;&#101;&#46;&#99;&#111;&#109;</td>
+<td>&#110;&#105;&#108;&#115;&#46;&#98;&#111;&#108;&#115;&#101;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</td>
 </tr></table>
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
-<p>Max Mustermann<br />
-Musterstrasse 12<br />
-12345 Musterstadt<br />
-<br />
-Sabine Mustermann<br />
-Musterstrasse 12<br />
-12345 Musterstadt</p>
-<p> </p>
+<p>André Borges<br />
+Urseler Str. 32<br />
+61348 Bad Homburg
+</p>
+<p>Nils Bolsen<br />
+Herder Str. 14<br />
+60316 Frankfurt am Main
+</p>
 <p>Quelle: <em><a href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></em></p>
 
 
