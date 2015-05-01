@@ -25,11 +25,6 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
-        // width:90%;
-        
-        // .page-link {
-        //     margin-left: 0;
-        // }
 
         .menu-icon {
             display: block;
@@ -39,11 +34,9 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
-
             > svg {
                 width: 18px;
                 height: 15px;
-
                 path {
                     fill: $brand-color;
                 }
@@ -65,4 +58,168 @@
             padding: 5px 10px;
         }
     }
+}
+
+
+
+/* Advanced Checkbox Hack */
+body { -webkit-animation: bugfix infinite 1s; }
+@-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
+
+input[type=checkbox] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+label { 
+  display:none;
+  cursor: pointer;
+  user-select:none;
+}
+
+/* background for li / select */
+$img_bg: url(https://raw.github.com/TimPietrusky/mantisbt-is-a-rockstar/master/rockstar/img/bg_dark_grey.png);
+
+/* custom-dropdown */
+nav[role="custom-dropdown"] {
+  position:relative;
+  width: 100%;
+    
+  a,
+  label {
+    color:$brand-color;
+    text-decoration:none;
+    // font: 1.4em sans-serif;
+    // transition:color .3s ease-in-out;
+  }
+    
+  ul {
+    padding: 2.4em 0 0 0;  
+    margin: 0 auto;  
+    // width:100%;
+    list-style:none;
+    
+    > li {
+      float:right;
+      padding:.55em 0;
+    //   width:19%;
+    //   background-image: $img_bg;
+      text-align:center;
+    //   transition-duration: .3s;
+    //   transition-timing-function: ease-in-out;
+    //   transition-property: box-shadow, color;
+    //   box-shadow:
+    //     0 .05em .25em 0 rgba(0, 0, 0, .35)
+    //   ;
+      cursor: pointer;
+    
+    //   &:hover {
+    //     // background-color:rgba(0, 0, 0, .85);
+    //     // color:#fff;
+    //     // box-shadow:
+    //     //   0 .05em .25em 0 rgba(0, 0, 0, .35),
+    //     //   inset 0 0 0 2em rgba(0, 0, 0, .3)
+    //     // ;
+    
+    //     > a {
+    //       color:#fff;
+    //     }
+    //   }
+    }
+  }
+}
+
+/* small screens */
+@include media-query($on-palm) {
+
+  nav[role="custom-dropdown"] {
+    ul {
+      display:none;
+      height:100%;
+    }
+
+    label {
+      position:relative;
+      display:block;
+      width:100%;
+      min-height:2.25em;
+      font-size: 1.8125em;
+      top: 0.4375em;
+    }
+    
+    label:after {
+      position: absolute;
+      right: .25em;  
+      top: 0; 
+      content:"\2261";
+      font-size:1.8125em;
+    }
+    
+
+        
+    input[type=checkbox]:checked ~ ul {
+      display:block;
+      display: block;
+      background-color: white;
+      position: fixed;
+      height: 100%;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      border: 0;
+      z-index: 1;
+      top: 6em;
+      left: 0;
+      opacity: 0.9;  
+      > li {
+        width:100%;
+        opacity:.9;
+        text-align:center;
+        &:hover {
+            background: $brand-color;
+            a {
+            color: #fff;
+            }
+        }
+        &:last-child {
+              margin: 0 0 2em 0;
+        }
+        .page-link {
+            border:none;
+        }
+      }        
+    }
+  }
+}
+
+.page-link {
+  display:inline;
+  font-size:16px;
+  line-height:16px;
+  padding: .55em 1.15em;
+  color: $brand-color;
+  text-decoration:none;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 8px;
+  &:visited {
+    color: $brand-color;
+  }
+  &:hover {
+    border-color: $brand-color;
+    text-decoration:none;
+  }
+  &:active {
+    @extend .active;
+  };
+}
+.site-nav .active {
+  background:$brand-color;
+  border-color: $brand-color;
+  color:white;
+}
+.bordered {
+  color: $brand-color;
 }
