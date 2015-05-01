@@ -161,7 +161,7 @@ nav[role="custom-dropdown"] {
       display:block;
       display: block;
       background-color: white;
-      position: fixed;
+    //   position: fixed; // macht scroll probleme
       height: 100%;
       width: 100%;
       padding: 0;

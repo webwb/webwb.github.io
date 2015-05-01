@@ -1,5 +1,5 @@
 <!--https://css-tricks.com/responsive-menu-concepts/-->
-<nav role="custom-dropdown">
+<nav role="custom-dropdown" onscroll="myFunction()">
     <input type="checkbox" id="button">
     <label for="button" onclick></label>
     <ul>
@@ -8,3 +8,10 @@
         <li><a class="page-link {% if page.navigation == 'about'   %}active{% endif %}" href="/about/"  >About  </a></li>
     </ul>
 </nav>
+<div id="demo"></div>
+<script>
+console.log("loaded");
+function myFunction() {
+    console.log("scrolled");
+}
+</script>

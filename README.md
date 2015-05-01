@@ -4,7 +4,9 @@
 
 ## C9
 
-### Start local server.
+[Jekyll on C9](https://docs.c9.io/v1.0/docs/jekyll)
+
+Start local server.
 
 jekyll serve --host $IP --port $PORT
 
@@ -24,5 +26,8 @@ publish / push to github
     
     
 ## Github
+
+[Setting Up a GitHub Workspace](https://docs.c9.io/v1.0/docs/setting-up-github-workspace)
+
 
 ## 
