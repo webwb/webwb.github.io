@@ -6,9 +6,9 @@
     line-height: 35px;
     padding-top:3em;
     text-transform: uppercase;
-    .menu-icon {
-        display: none;
-    }
+    // .menu-icon {
+    //     display: none;
+    // }
     .page-link {
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -26,22 +26,22 @@
         border-radius: 5px;
         text-align: right;
 
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-            > svg {
-                width: 18px;
-                height: 15px;
-                path {
-                    fill: $brand-color;
-                }
-            }
-        }
+        // .menu-icon {
+        //     display: block;
+        //     float: right;
+        //     width: 36px;
+        //     height: 26px;
+        //     line-height: 0;
+        //     padding-top: 10px;
+        //     text-align: center;
+        //     > svg {
+        //         width: 18px;
+        //         height: 15px;
+        //         path {
+        //             fill: $brand-color;
+        //         }
+        //     }
+        // }
 
         .trigger {
             clear: both;
@@ -79,7 +79,7 @@ label {
 }
 
 /* background for li / select */
-$img_bg: url(https://raw.github.com/TimPietrusky/mantisbt-is-a-rockstar/master/rockstar/img/bg_dark_grey.png);
+// $img_bg: url(https://raw.github.com/TimPietrusky/mantisbt-is-a-rockstar/master/rockstar/img/bg_dark_grey.png);
 
 /* custom-dropdown */
 nav[role="custom-dropdown"] {
@@ -143,7 +143,7 @@ nav[role="custom-dropdown"] {
       position:relative;
       display:block;
     //   width:100%;
-    //   min-height:2.25em;
+      min-height:2.25em;
       font-size: 1.7125em;
       top: 14px;
       right:-14px;
@@ -159,7 +159,6 @@ nav[role="custom-dropdown"] {
         
     input[type=checkbox]:checked ~ ul {
       display:block;
-      display: block;
       background-color: white;
     //   position: fixed; // macht scroll probleme
       height: 100%;

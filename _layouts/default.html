@@ -8,7 +8,7 @@
     {% include header.html %}
     {% include banner.html %}
 
-    <div class="page-content">
+    <div class="page-content"  onscroll="myFunction()">
       <div class="wrapper">
         {{ content }}
       </div>
@@ -18,5 +18,13 @@
     {% include googleanalytics.html %}
 
   </body>
+
+
+<script>
+console.log("loaded");
+function myFunction() {
+    console.log("scrolled");
+}
+</script>
 
 </html>
