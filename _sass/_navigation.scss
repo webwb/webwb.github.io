@@ -63,7 +63,10 @@
 
 
 /* Advanced Checkbox Hack */
-body { -webkit-animation: bugfix infinite 1s; }
+body { 
+    -webkit-animation: bugfix infinite 1s; 
+    -webkit-tap-highlight-color:transparent
+}
 @-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
 
 input[type=checkbox] {
