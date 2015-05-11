@@ -73,6 +73,7 @@ navigation: about
       <li>Adobe Illustrator</li>
       <li>CSS</li>
       <li>Adobe AEM</li>
+      <li>Adobe Lightroom</li>
     </ul>
   </div>
   <div class="profile-contacts">

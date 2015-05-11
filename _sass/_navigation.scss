@@ -1,68 +1,8 @@
 /**
  * Site navigation
- */
-.site-nav {
-    float: right;
-    line-height: 35px;
-    padding-top:3em;
-    text-transform: uppercase;
-    // .menu-icon {
-    //     display: none;
-    // }
-    .page-link {
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
-    }
+ * mostly copied from: Advanced Checkbox Hack http://timpietrusky.com/advanced-checkbox-hack 
+*/
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 2.8125em;
-        right: 0.9375em;
-        padding-top:0;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        // .menu-icon {
-        //     display: block;
-        //     float: right;
-        //     width: 36px;
-        //     height: 26px;
-        //     line-height: 0;
-        //     padding-top: 10px;
-        //     text-align: center;
-        //     > svg {
-        //         width: 18px;
-        //         height: 15px;
-        //         path {
-        //             fill: $brand-color;
-        //         }
-        //     }
-        // }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
-}
-
-
-
-/* Advanced Checkbox Hack */
 body { 
     -webkit-animation: bugfix infinite 1s; 
 }
@@ -79,10 +19,6 @@ label {
   cursor: pointer;
   user-select:none;
 }
-
-/* background for li / select */
-// $img_bg: url(https://raw.github.com/TimPietrusky/mantisbt-is-a-rockstar/master/rockstar/img/bg_dark_grey.png);
-
 /* custom-dropdown */
 nav[role="custom-dropdown"] {
   position:relative;
@@ -92,44 +28,19 @@ nav[role="custom-dropdown"] {
   label {
     color:$brand-color;
     text-decoration:none;
-        -webkit-tap-highlight-color:transparent
-
-    // font: 1.4em sans-serif;
-    // transition:color .3s ease-in-out;
+    -webkit-tap-highlight-color:transparent
   }
-    
+  
   ul {
     padding: 2.4em 0 0 0;  
     margin: 0 auto;  
-    // width:100%;
     list-style:none;
     
     > li {
       float:right;
       padding:.55em 0;
-    //   width:19%;
-    //   background-image: $img_bg;
       text-align:center;
-    //   transition-duration: .3s;
-    //   transition-timing-function: ease-in-out;
-    //   transition-property: box-shadow, color;
-    //   box-shadow:
-    //     0 .05em .25em 0 rgba(0, 0, 0, .35)
-    //   ;
       cursor: pointer;
-    
-    //   &:hover {
-    //     // background-color:rgba(0, 0, 0, .85);
-    //     // color:#fff;
-    //     // box-shadow:
-    //     //   0 .05em .25em 0 rgba(0, 0, 0, .35),
-    //     //   inset 0 0 0 2em rgba(0, 0, 0, .3)
-    //     // ;
-    
-    //     > a {
-    //       color:#fff;
-    //     }
-    //   }
     }
   }
 }
@@ -146,13 +57,11 @@ nav[role="custom-dropdown"] {
     label {
       position:relative;
       display:block;
-    //   width:100%;
       min-height:2.25em;
       font-size: 1.7125em;
       top: 14px;
       right:-14px;
     }
-    
     label:after {
       position: absolute;
       right: .25em;  
@@ -177,7 +86,7 @@ nav[role="custom-dropdown"] {
       > li {
         width:100%;
         opacity:.9;
-        text-align:center;
+        // text-align:center;
         &:hover {
             background: $brand-color;
             a {
@@ -189,6 +98,9 @@ nav[role="custom-dropdown"] {
         }
         .page-link {
             border:none;
+        }
+        a {
+            display:inline-block;
         }
       }        
     }
@@ -202,9 +114,7 @@ nav[role="custom-dropdown"] {
   padding: .55em 1.15em;
   color: $brand-color;
   text-decoration:none;
-  border-color: rgba(0, 0, 0, 0);
-  border-width: 1px;
-  border-style: solid;
+  border: 1px rgba(0, 0, 0, 0) solid;
   border-radius: 8px;
   &:visited {
     color: $brand-color;
