@@ -4,7 +4,7 @@ layout: post
 title: "Mein fireTV stick ist da!"
 author: André Borges
 categories: digital
-image: DSC06896.jpg
+image: DSC06903.jpg
 ---
 
 
@@ -17,16 +17,16 @@ Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Geg
 
 ![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
 
-
 ## Konfiguration
-Der FireTv Stick 
-ist schnell einsatzbereit.
+Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man beginnen kann Filme & Serien zu schauen...
 
-1. An den Fernseher anschließen
-2. Fernbedienung mit dem Stick koppeln
-3. Sprache wählen
-4. WLAN Verbindung herstellen
-5. Kontodaten eingeben
+  1. An den Fernseher anschließen
+  2. Fernbedienung mit dem Stick koppeln
+  3. Sprache wählen
+  4. WLAN Verbindung herstellen
+  5. Kontodaten eingeben
+  
+...und los geht's!
 
 ## Funktion
 
