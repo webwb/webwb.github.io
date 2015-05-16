@@ -1,14 +1,14 @@
 ---
 published: true
 layout: post
-title: "Mein Fire Stick TV ist da!"
+title: "Mein fireTV stick ist da!"
 author: André Borges
 categories: digital
 image: url.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+...und endlich komme ich dazu ihn mal zu testen. Für 19€ konnte ich nicht widerstehen und musste einfach mal schauen, ob sich die Anschaffung lohnt. Vorweg kann ich schon mal sagen, dass die Investition keine Fehler war, auch wenn mein neuer Fernseher mit einer Amazon Prime App daherkommt.
 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
