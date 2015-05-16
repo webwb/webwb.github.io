@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: "Mein fireTV stick ist da!"
 author: André Borges
