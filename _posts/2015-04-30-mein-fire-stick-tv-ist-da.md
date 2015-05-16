@@ -4,7 +4,7 @@ layout: post
 title: "Mein fireTV stick ist da!"
 author: André Borges
 categories: digital
-image: DSC06903.jpg
+image: DSC06896.jpg
 ---
 
 
@@ -12,12 +12,12 @@ image: DSC06903.jpg
 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
-## Lieferung
+## Was bekommt man alles..
 Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert. Zusätzlich wird eine entsprechendes Netzteil für den Stick geliefert - dieser brauch also einen eigenen Stromanschluss, kann aber entsprechend in den Ruhemodus versetzt werden. Sollten die HDMI-Anschlüsse eines Fernsehers schlecht erreichbar sein, wird zusätzlich eine HDMI-Verlängerung mitgeliefert. Ansonsten wurde wie üblich eine Bedienungsanleitung - brauch man nicht, da sich alles von alleine erklärt - und entsprechende Batterien für die Fernbedienung dazu gelegt.
 
 ![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
 
-## Konfiguration
+## Wie schnell ist der Stick einsatzbereit...
 Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man beginnen kann Filme & Serien zu schauen...
 
   1. An den Fernseher anschließen
@@ -28,20 +28,20 @@ Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man b
   
 ...und los geht's!
 
-## Funktion
+## Was kann der Stick alles...
+Der Stick ha hauptsächlich zwei Funktionen die ich in diesem Beitrag hervorheben möchte. 
 
-### Watchlist
-Filme die man sich später ansehen möchte
+### Filme & Serien
+Amazon bietet dem Nutzer viele verschiedene Filme und Serien - wobei die meisten für Prime-Mitglieder kostenlos sind. Hierbei finde ich es super das es eine eigene Kategorie "Prime" gibt, in der man alle kostenlosen Medien auf einen Blick sieht. Das navigieren durch das Menü und das abspielen von Filmen funktioniert problemlos und würde ich im Vergleich zur App meines Fernsehers als sehr schnell bezeichnen.
 
-Man kan mit einem Tablet die Inhalte auf den Stick schmeißen
+Filme & Serien die man sich später ansehen möchte und nicht vergesssen will kann der Nutzer in der sogenannten "Watchlist" speichern und später darauf zurück greifen.
+
+![firetvwatchlist]({{site.baseurl}}/images/DSC06962.jpg)
 
 ### Spiele
 Man kann Spiele mit der Fernbedienung, dem Controller oder kompatiblen Handys steuern.
 
 
-
-### Bilder über Cloud
-Über die Amazon 
 
 ## Fazit
 
