@@ -29,7 +29,7 @@ Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man b
 ...und los geht's!
 
 ## Was kann der Stick alles...
-Der Stick ha hauptsächlich zwei Funktionen die ich in diesem Beitrag hervorheben möchte. 
+Der Stick hat hauptsächlich zwei Funktionen die ich in diesem Beitrag hervorheben möchte. 
 
 ### Filme & Serien
 Amazon bietet dem Nutzer viele verschiedene Filme und Serien - wobei die meisten für Prime-Mitglieder kostenlos sind. Hierbei finde ich es super das es eine eigene Kategorie "Prime" gibt, in der man alle kostenlosen Medien auf einen Blick sieht. Das navigieren durch das Menü und das abspielen von Filmen funktioniert problemlos und würde ich im Vergleich zur App meines Fernsehers als sehr schnell bezeichnen.
@@ -41,7 +41,10 @@ Filme & Serien die man sich später ansehen möchte und nicht vergesssen will ka
 Kritisch sehe ich jedoch die Sortierung der Filme und Serien in der Kachelansicht. Ich selber verliere mich sehr schnell in den verschiedenen Kategorien und weiß nicht so recht, wo ich begonnen habe - geschweige denn was ich mir ansehen möchte. Aus diesem Grund nutze ich hauptsächlich die Suche und hoffe jedes mal das die gewünschte Serie zur Verfügung steht. 
 
 ### Spiele
-Die zweite Funktion die mich
+Die zweite Funktion die mich wirklich überrascht hat ist die Möglichkeit Spiele über den Stick am Fernseher zu spielen. Hier findet sich im Unterschied zum großen Bruder "FireTV" eine etwas kleinere Auswahl an spielen, da die Performance des Sticks wohl nicht für alle Spiele ausreicht. Nichts desto trotz gab es zum Start des Sticks 133 Spiele zur Auswahl. In meinem Test habe ich das Spiel ""
+
+![firetevbeach]({{site.baseurl}}/images/DSC06964.jpg)
+
 
 Man kann Spiele mit der Fernbedienung, dem Controller oder kompatiblen Handys steuern.
 
