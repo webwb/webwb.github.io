@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
 ## Lieferung
-Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert.
+Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert. Zusätzlich wird eine entsprechendes Netzteil für den Stick geliefert - dieser brauch also einen eigenen Stromanschluss und kann nicht abgeschaltet werden. Sollten die HDMI-Anschlüsse eines Fernsehers schlecht erreichbar sein, wird zusätzlich eine HDMI-Verlängerung mitgeliefert. Ansonsten wurde wie üblich eine Bedienungsanleitung - brauch man nicht, da sich alles von alleine erklärt - und entsprechende Batterien für die Fernbedienung dazu gelegt.
 
 ![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
 
