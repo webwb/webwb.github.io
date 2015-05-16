@@ -51,3 +51,5 @@ Mit den Spielen bietet der Stick eine sehr günstige Alternative zu aktuellen Sp
 
 ## Fazit
 Der fireTV Stick bietet Leuten mit einem älteren Fernseher eine sehr günstige Möglichkeit Filme & Serien zu streamen. Als Prime Kunde ist der größte Teil der Medien kostenlos und bietet daher eine super Möglichkeit an regnerischen Tagen auf dem Sofa zu versinken.
+
+[Hier](http://www.amazon.de/gp/product/B00KAKPZYG/ref=as_li_tl?ie=UTF8&camp=2514&creative=9386&creativeASIN=B00KAKPZYG&link_code=as3&tag=webworkersio-21&linkId=N7ZBX652TALOH4PJ) könnt ihr den Stick bestellen und uns gleichzeitig kostenfrei unterstützen.
