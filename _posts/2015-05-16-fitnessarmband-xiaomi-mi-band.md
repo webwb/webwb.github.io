@@ -1,10 +1,11 @@
 ---
-published: true
+published: false
 layout: post
 title: "Fitnessarmband - Xiaomi Mi Band"
 author: André Borges
 categories: life
 ---
+
 
 ## A New Post
 
