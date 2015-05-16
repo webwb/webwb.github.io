@@ -12,11 +12,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
-
 ## Lieferung
+Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert.
+
+![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
+
 
 ## Konfiguration
-Der FireTv Stick ist schnell einsatzbereit.
+Der FireTv Stick 
+ist schnell einsatzbereit.
 
 1. An den Fernseher anschließen
 2. Fernbedienung mit dem Stick koppeln
@@ -33,6 +37,8 @@ Man kan mit einem Tablet die Inhalte auf den Stick schmeißen
 
 ### Spiele
 Man kann Spiele mit der Fernbedienung, dem Controller oder kompatiblen Handys steuern.
+
+
 
 ### Bilder über Cloud
 Über die Amazon 
