@@ -38,13 +38,14 @@ Filme & Serien die man sich später ansehen möchte und nicht vergesssen will ka
 
 ![firetvwatchlist]({{site.baseurl}}/images/DSC06962.jpg)
 
+Kritisch sehe ich jedoch die Sortierung der Filme und Serien in der Kachelansicht. Ich selber verliere mich sehr schnell in den verschiedenen Kategorien und weiß nicht so recht, wo ich begonnen habe - geschweige denn was ich mir ansehen möchte. Aus diesem Grund nutze ich hauptsächlich die Suche und hoffe jedes mal das die gewünschte Serie zur Verfügung steht. 
+
 ### Spiele
+Die zweite Funktion die mich
+
 Man kann Spiele mit der Fernbedienung, dem Controller oder kompatiblen Handys steuern.
 
 
 
 ## Fazit
 
-
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
