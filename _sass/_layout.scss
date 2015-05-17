@@ -94,10 +94,8 @@
         }
     h3 {
         color: #4fb56e;
-        font-family: OpenSans-CondBold;
-        font-size: 35px;
-        letter-spacing: -1px;
-        line-height: 1;
+        font-size: 1.0em;
+        font-weight: 700;
         @include media-query($on-laptop) {
             font-size: 22px;
         }
