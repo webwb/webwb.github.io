@@ -96,10 +96,7 @@
         color: #4fb56e;
         font-size: 1.0em;
         font-weight: 700;
-        @include media-query($on-laptop) {
-            font-size: 22px;
         }
-    }
     h4 {
         font-size: 20px;
         @include media-query($on-laptop) {
