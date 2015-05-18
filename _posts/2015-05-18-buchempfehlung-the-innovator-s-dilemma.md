@@ -3,7 +3,7 @@ published: false
 layout: post
 title: "Buchempfehlung - The Innovator's Dilemma"
 author: André Borges
-categories: life
+categories: book
 image: DSC06973.jpg
 ---
 
@@ -12,5 +12,11 @@ image: DSC06973.jpg
 
 ![TheInnovatorsCover]({{site.baseurl}}/images/DSC06973.jpg)
 
-
 ## Um was geht es in diesem Buch...
+Das Buch beschreibt wie Marktführer verschiedener Branchen die Innovation Ihrer Produktsparte unterschätzten und daran scheiterten. Anhand vieler völlig unterschiedlicher Unternehmen zeigt Clayton M. Christensen wie reguläre Managementmethoden und damit augenscheinlich korrekte Handlungen von Führungskräften zur Schwächung oder gar Eliminierung einiger Branchengiganten führten. 
+
+## Warum würde ich dieses Buch wieder lesen...
+Der Autor schafft es
+
+Es wird verdeutlicht das auch große Unternehmen nicht vor dem Scheitern ge
+
