@@ -56,6 +56,8 @@ prose:
               value: "digital"
             - name: "Online Life"
               value: "online"
+            - name: "Book"
+              value: "book"
       - name: "image"
         field:
           element: "text"
