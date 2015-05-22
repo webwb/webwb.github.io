@@ -5,7 +5,9 @@ title: "Mein fireTV stick ist da!"
 author: André Borges
 categories: digital
 image: DSC06896.jpg
+comments: true
 ---
+
 
 
 
