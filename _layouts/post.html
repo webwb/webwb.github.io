@@ -19,4 +19,8 @@ layout: default
 
   {% include pagination.html %}
 
+  {% if page.comments %}
+    {% include disqus.html %}
+  {% endif %}
+
 </div>

@@ -45,6 +45,11 @@ prose:
         field:
           element: 'hidden'
           value: true
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments?"
+          value: true
       - name: "categories"
         field:
           element: "select"

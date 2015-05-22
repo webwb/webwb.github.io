@@ -5,6 +5,7 @@ title: "Jekyllconf - Best Practices | Advanced Case Studies | The Future of Jeky
 author: Nils Bolsen
 categories: digital
 image: jekyll1.jpg
+comments: true
 ---
 
 [CloudCannon](http://cloudcannon.com/) hat die [JekyllConf](http://jekyllconf.com/) mit den Untertitel "The free, online global conference for all things Jekyll" als online Konferenz abgehalten. Alle Talks sind aufgezeichnet worden und auf Youtube eröffentlicht, inklusive Opening und Closing sind das interessante 6 Stunden. 
