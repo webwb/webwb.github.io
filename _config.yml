@@ -29,7 +29,7 @@ prose:
       - name: "author"
         field:
           element: "select"
-          label: "Who are you ?"
+          label: "Autor"
           placeholder: "Choose your name"
           options:
             - name: "Andre"
@@ -48,7 +48,7 @@ prose:
       - name: "comments"
         field:
           element: "checkbox"
-          label: "Comments?"
+          label: "Kommentare"
           value: true
       - name: "categories"
         field:
