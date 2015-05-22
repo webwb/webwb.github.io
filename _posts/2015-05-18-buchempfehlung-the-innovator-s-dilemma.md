@@ -5,7 +5,9 @@ title: "Buchempfehlung - The Innovator's Dilemma"
 author: André Borges
 categories: book
 image: DSC06973.jpg
+comments: true
 ---
+
 
 
 
