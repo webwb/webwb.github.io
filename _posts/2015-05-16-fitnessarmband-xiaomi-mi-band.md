@@ -3,19 +3,21 @@ published: false
 layout: post
 title: "Fitnessarmband - Xiaomi Mi Band"
 author: André Borges
-categories: life
+categories: digital
 comments: true
+image: DSC06984.jpg
 ---
 
 
 ...die neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll ist.
 
-![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
-
 ## Was bekommt man alles..
 Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert. Zusätzlich wird eine entsprechendes Netzteil für den Stick geliefert - dieser braucht also einen eigenen Stromanschluss, kann aber entsprechend in den Ruhemodus versetzt werden. Sollten die HDMI-Anschlüsse eines Fernsehers schlecht erreichbar sein, wird zusätzlich eine HDMI-Verlängerung mitgeliefert. Ansonsten wurde wie üblich eine Bedienungsanleitung - braucht man nicht, da sich alles von alleine erklärt - und entsprechende Batterien für die Fernbedienung dazu gelegt.
 
-![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
+![mibandpackage]({{site.baseurl}}/images/DSC06984.jpg)
+
+![DSC07001.jpg]({{site.baseurl}}/images/DSC07001.jpg)
+
 
 ## Wie schnell ist der Stick einsatzbereit...
 Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man beginnen kann Filme & Serien zu schauen...
