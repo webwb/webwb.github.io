@@ -4,9 +4,11 @@ layout: post
 title: "Fitnessarmband - Xiaomi Mi Band"
 author: André Borges
 categories: life
+comments: true
 ---
 
-...und endlich komme ich dazu ihn mal zu testen. Für 19€ konnte ich nicht widerstehen und musste einfach mal schauen, ob sich die Anschaffung lohnt. Vorweg kann ich schon mal sagen, dass die Investition kein Fehler war, auch wenn mein neuer Fernseher mit einer Amazon Prime App daherkommt.
+
+...die neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll ist.
 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
