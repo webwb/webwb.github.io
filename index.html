@@ -11,7 +11,7 @@ navigation: home
     {% for post in paginator.posts %}
       <li>
         {% if post.image %}
-          <img class="post-image" src="/images/{{ post.image }}" />
+          <img class="post-image" src="/images/{{ post.image }}" alt="post.image" />
         {% endif %}
         <article class="post-teaser">
           <span class="post-author">{{ post.author }}</span>
