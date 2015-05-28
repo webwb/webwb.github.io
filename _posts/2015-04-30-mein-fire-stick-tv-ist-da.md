@@ -8,10 +8,7 @@ image: DSC06896.jpg
 comments: true
 ---
 
-
-
-
-...und endlich komme ich dazu ihn mal zu testen. Für 19€ konnte ich nicht widerstehen und musste einfach mal schauen, ob sich die Anschaffung lohnt. Vorweg kann ich schon mal sagen, dass die Investition kein Fehler war, auch wenn mein neuer Fernseher mit einer Amazon Prime App daherkommt.
+...und endlich komme ich dazu ihn mal zu testen. Für 19€ konnte ich nicht widerstehen und musste einfach mal schauen, ob sich die Anschaffung lohnt. Vorweg kann ich schon mal sagen, dass die Investition kein Fehler war, auch wenn mein neuer Fernseher mit einer Amazon Prime App daher kommt.
 
 ![firestickpackung]({{site.baseurl}}/images/DSC06896.jpg)
 
@@ -21,7 +18,7 @@ Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Geg
 ![firestickremote]({{site.baseurl}}/images/DSC06903.jpg)
 
 ## Wie schnell ist der Stick einsatzbereit...
-Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man beginnen kann Filme & Serien zu schauen...
+Genau fünf Schritte reichen, damit der fireTV Stick einsatzbereit ist und man beginnen kann, Filme & Serien zu schauen...
 
   1. An den Fernseher anschließen
   2. Fernbedienung mit dem Stick koppeln
@@ -41,18 +38,18 @@ Filme & Serien, die man sich später ansehen möchte und nicht vergessen will, k
 
 ![firetvwatchlist]({{site.baseurl}}/images/DSC06962.jpg)
 
-Kritisch sehe ich jedoch die Sortierung der Filme und Serien in der Kachelansicht. Ich selber verliere mich sehr schnell in den verschiedenen Kategorien und weiß nicht so recht, wo ich begonnen habe - geschweige denn was ich mir ansehen möchte. Aus diesem Grund nutze ich hauptsächlich die Suche und hoffe jedes mal das die gewünschte Serie zur Verfügung steht. 
+Kritisch sehe ich jedoch die Sortierung der Filme und Serien in der Kachelansicht. Ich selber verliere mich sehr schnell in den verschiedenen Kategorien und weiß nicht so recht, wo ich begonnen habe - geschweige denn was ich mir ansehen möchte. Aus diesem Grund nutze ich hauptsächlich die Suche und hoffe jedes Mal, dass die gewünschte Serie zur Verfügung steht. 
 
 ### Spiele
-Die zweite Funktion, die mich wirklich überrascht hat, ist die Möglichkeit Spiele über den Stick am Fernseher zu spielen. Hier findet sich im Unterschied zum großen Bruder "FireTV" eine etwas kleinere Auswahl an Spielen, da die Performance des Sticks wohl nicht für alle Spiele ausreicht. Nichts desto trotz, gab es zum Start des Sticks 133 Spiele zur Auswahl. In meinem Test habe ich das Spiel "Beach Buggy Racing" getestet und war begeistert, wie gut die Steuerung mit der Fernbedienung funktioniert.
+Die zweite Funktion, die mich wirklich überrascht hat, ist die Möglichkeit, Spiele über den Stick am Fernseher zu spielen. Hier findet sich im Unterschied zum großen Bruder "FireTV" eine etwas kleinere Auswahl an Spielen, da die Performance des Sticks wohl nicht für alle Spiele ausreicht. Nichts desto trotz, gab es zum Start des Sticks 133 Spiele zur Auswahl. In meinem Test habe ich das Spiel "Beach Buggy Racing" getestet und war begeistert, wie gut die Steuerung mit der Fernbedienung funktioniert.
 
 ![firetevbeach]({{site.baseurl}}/images/DSC06964.jpg)
 
 Wem die Fernbedienung zum Spielen nicht ausreicht, hat die Möglichkeit sein Handy - falls kompatibel - als Controller zu nutzen oder sich für 39,99€ den passenden Amazon Controller zu bestellen. 
 
-Mit den Spielen bietet der Stick eine sehr günstige Alternative zu aktuellen Spielekonsolen und bietet besonders für jüngere Kinder tollen Unterhaltungswert. Der einzige Nachteil des Sticks zum Receiver ist die schlechtere Performance, die beim Spielen leider trotz eingeschränkter Spieleauswahl auch auffällt. Hin und wieder ruckelt das Bild oder der Ton setzt aus. Spielefans würde ich daher empfehlen sich den großen Bruder zu kaufen, auch da die Spieleauswahl deutlich größer ist.
+Mit den Spielen bietet der Stick eine sehr günstige Alternative zu aktuellen Spielekonsolen und bietet besonders für jüngere Kinder tollen Unterhaltungswert. Der einzige Nachteil des Sticks zum Receiver ist die schlechtere Performance, die beim Spielen leider trotz eingeschränkter Spieleauswahl auch auffällt. Hin und wieder ruckelt das Bild oder der Ton setzt aus. Spielefans würde ich daher empfehlen, sich den großen Bruder zu kaufen, auch da die Spieleauswahl deutlich größer ist.
 
 ## Fazit
-Der fireTV Stick bietet Leuten mit einem älteren Fernseher eine sehr günstige Möglichkeit Filme & Serien zu streamen. Als Prime Kunde ist der größte Teil der Medien kostenlos und bietet daher eine super Möglichkeit an regnerischen Tagen auf dem Sofa zu versinken.
+Der fireTV Stick bietet Leuten mit einem älteren Fernseher eine sehr günstige Möglichkeit, Filme & Serien zu streamen. Als Prime Kunde ist der größte Teil der Medien kostenlos und bietet daher eine super Möglichkeit, an regnerischen Tagen auf dem Sofa zu versinken.
 
 [Hier](http://www.amazon.de/gp/product/B00KAKPZYG/ref=as_li_tl?ie=UTF8&camp=2514&creative=9386&creativeASIN=B00KAKPZYG&link_code=as3&tag=webworkersio-21&linkId=N7ZBX652TALOH4PJ) könnt ihr den Stick bestellen und uns gleichzeitig kostenfrei unterstützen.
