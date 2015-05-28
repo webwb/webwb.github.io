@@ -19,7 +19,7 @@ label {
   cursor: pointer;
   user-select:none;
 }
-/* custom-dropdown */
+/* custom-dropdown: navigation */
 nav[role="navigation"] {
   position:relative;
   width: 100%;
@@ -48,7 +48,7 @@ nav[role="navigation"] {
 /* small screens */
 @include media-query($on-palm) {
 
-  nav[role="custom-dropdown"] {
+  nav[role="navigation"] {
     ul {
       display:none;
       height:100%;
