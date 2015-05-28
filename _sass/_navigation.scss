@@ -41,6 +41,7 @@ nav[role="navigation"] {
       padding:.55em 0;
       text-align:center;
       cursor: pointer;
+      margin-left: .5em;
     }
   }
 }
@@ -127,7 +128,7 @@ nav[role="navigation"] {
     @extend .active;
   };
 }
-.site-nav .active {
+a.page-link.active {
   background:$brand-color;
   border-color: $brand-color;
   color:white;
