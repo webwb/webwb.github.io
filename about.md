@@ -62,9 +62,9 @@ navigation: about
   <div class="profile-talent">Webnatic</div>
   <div class="profile-bio">
     I'm 25 years old and living in Bad Homburg.
-    Currently i'm working for one of the biggest technology companies in the world.
+    Currently I'm working for one of the biggest technology companies in the world.
     I'm responsible for the internal intranet development of europeans largest airline carrier.
-    In my leisure time i like to take a tour with my bike and take photos with my camera.  </div>
+    In my leisure time I like biketours and take photos.  </div>
   <div class="profile-skills">
     <h2>Skills</h2>
     <ul>
