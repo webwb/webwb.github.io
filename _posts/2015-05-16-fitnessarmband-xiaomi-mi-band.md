@@ -8,29 +8,31 @@ comments: true
 image: DSC06984.jpg
 ---
 
+
 ...die neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
 ## Was bekommt man alles..
-Der Stick wird mit einer entsprechenden Fernbedienung geliefert, die sich im Gegensatz zu üblichen Fernbedienungen von Receivern sehr hochwertig anfühlt und auf jede Bewegung zügig reagiert. Zusätzlich wird eine entsprechendes Netzteil für den Stick geliefert - dieser braucht also einen eigenen Stromanschluss, kann aber entsprechend in den Ruhemodus versetzt werden. Sollten die HDMI-Anschlüsse eines Fernsehers schlecht erreichbar sein, wird zusätzlich eine HDMI-Verlängerung mitgeliefert. Ansonsten wurde wie üblich eine Bedienungsanleitung - braucht man nicht, da sich alles von alleine erklärt - und entsprechende Batterien für die Fernbedienung dazu gelegt.
+Die Verpackung des Bands ist sehr klein - die Umwelt dankt es - und enthält lediglich das Armband und ein USB-Ladekabel. Die [App "Mi Fit"](https://itunes.apple.com/de/app/mi-fit/id938688461?mt=8) kann man sich ganz leicht für iOS aus dem AppStore laden.
 
 ![mibandpackage]({{site.baseurl}}/images/DSC06984.jpg)
 
 ![DSC07001.jpg]({{site.baseurl}}/images/DSC07001.jpg)
 
 
-## Wie schnell ist der Stick einsatzbereit...
-Genau fünf Schritte reichen, damit der fireTV stick einsatzbereit ist und man beginnen kann Filme & Serien zu schauen...
+## Wie schnell ist das Band einsatzbereit...
+Genau vier Schritte reichen, damit das Armband einsatzbereit ist und man beginnen kann seine Aktivitäten zu tracken...
 
-  1. An den Fernseher anschließen
-  2. Fernbedienung mit dem Stick koppeln
-  3. Sprache wählen
-  4. WLAN-Verbindung herstellen
-  5. Kontodaten eingeben
+  1. Armband anlegen
+  2. App downloaden (Stichwort "")
+  3. Account anlegen (Handynummer muss zur Aktivierung angegeben werden)
+  4. Bluetooth aktivieren
   
-...und los geht's!
+...und los geht'
 
-## Was kann der Stick alles...
-Das Armband hat hauptsächlich drei Funktionen, die wirklich nützlich sind un mich persönlich auch überzeugt haben.
+Das Armband kann auch mehrere Tage ohne Verbindung zum Smartphone alle Aktivitäten speichern und überträgt diese sobald ihr die App startet und die Verbindung erfolgt ist.
+
+## Was kann das Armband alles...
+Das Armband hat hauptsächlich drei Funktionen, die wirklich nützlich sind und mich persönlich auch überzeugt haben.
 
 ### Schrittzähler und Schlafrythmus
 Das Armband ermöglicht einem - im Gegensatz zum Smartphone - alle Schritte die man täglich macht zu ermitteln. Dies tut es auch recht zuverlässig. Jedoch steigt durch Handbewegungen auch die Anzahl der Schritte. Als Richtwert finde ich die Anzahl der Schritte jedoch sehr praktisch und schaue mir diese auch täglich an.
