@@ -20,7 +20,7 @@ Die Verpackung des Bands ist sehr klein - die Umwelt dankt es - und enthält led
 Genau vier Schritte reichen, damit das Armband einsatzbereit ist und man beginnen kann seine Aktivitäten zu tracken...
 
   1. Armband anlegen
-  2. App downloaden (Stichwort "")
+  2. App downloaden (Stichwort "Mi Fit")
   3. Account anlegen (Handynummer muss zur Aktivierung angegeben werden)
   4. Bluetooth aktivieren
   
