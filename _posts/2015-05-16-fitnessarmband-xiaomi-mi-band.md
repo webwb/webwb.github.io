@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Fitnessarmband - Xiaomi Mi Band"
 author: André Borges
