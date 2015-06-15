@@ -41,7 +41,7 @@ Zusätzlich zeichnet das Armband den Schlafrythmus auf und unterscheidet zwische
 ### Vibrationshinweis bei Anrufen
 Wirklich praktisch ist die Hinweisfunktion bei Anrufen. In der entsprechenden App kann eingestellt werden, dass das Armband bei einem Anruf vibriert. Die Option findet ihr rechts oben in der App unter dem Menüpunkt "Settings". Für "Vibrate for incoming calls" könnt ihr die Zeit definieren, nach der das Armband überhaupt beginnen soll zu informieren.
 
-![gotosettings]({{site.baseurl}}/images/01.png)![clicksettings]({{site.baseurl}}/images/02.png)![clickoncalls]({{site.baseurl}}/images/03.png)
+![callsettings]({{site.baseurl}}/images/callsettings.png)
 
 ### Wecker
 Die Wecker-Funktion lässt euch über die App für entsprechende Tage die Uhrzeit zum Wecken festlegen. Zusätzlich könnt ihr definieren, dass 30 Minuten vor der festgelegten Zeit geprüft wird, ob ihr euch in einer leichten Schlafphase befindet und ihr entsprechend früher geweckt werdet. Das Armband vibriert entsprechend und hört auf sobald man sich bewegt. Ich empfinde diese Weckmöglichkeit viel angenehmer als den lauten Wecker, jedoch hört das Band irgendwann auf zu wecken, wodurch man - und ja das ist mir passiert - doch mal "leicht" verschlafen kann. Aus diesem Grund habe ich sicherheitshalber immer einen Wecker gestellt.
