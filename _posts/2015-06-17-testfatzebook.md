@@ -4,7 +4,7 @@ layout: post
 title: Testfatzebook
 author: André Borges
 comments: true
-categories: life
+categories: book
 ---
 
 
