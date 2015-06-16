@@ -5,7 +5,7 @@ title: "Fitnessarmband - Xiaomi Mi Band"
 author: André Borges
 categories: digital
 comments: true
-image: DSC06984.jpg
+image: mibandpackage.jpg
 ---
 
 
@@ -13,7 +13,7 @@ image: DSC06984.jpg
 
 ...die Neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit, für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
-![mibandpackage]({{site.baseurl}}/images/DSC06984.jpg)
+![mibandpackage]({{site.baseurl}}/images/mibandpackage.jpg)
 
 ## Was bekommt man alles..
 Die Verpackung des Bandes ist sehr klein - die Umwelt dankt es - und enthält lediglich das Armband und ein USB-Ladekabel. Die [App "Mi Fit"](https://itunes.apple.com/de/app/mi-fit/id938688461?mt=8) kann man sich ganz leicht für iOS aus dem AppStore laden.
