@@ -9,6 +9,7 @@ image: DSC06984.jpg
 ---
 
 
+
 ...die Neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit, für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
 ## Was bekommt man alles..
@@ -44,9 +45,9 @@ Wirklich praktisch ist die Hinweisfunktion bei Anrufen. In der entsprechenden Ap
 ![callsettings]({{site.baseurl}}/images/callsettings.png)
 
 ### Wecker
-Die Wecker-Funktion lässt euch über die App für entsprechende Tage die Uhrzeit zum Wecken festlegen. Zusätzlich könnt ihr definieren, dass 30 Minuten vor der festgelegten Zeit geprüft wird, ob ihr euch in einer leichten Schlafphase befindet und ihr entsprechend früher geweckt werdet. Das Armband vibriert dann und hört auf, sobald man sich bewegt. Ich empfinde diese Weckmöglichkeit als viel angenehmer als den lauten Wecker, jedoch hört das Band irgendwann auf zu wecken, wodurch man - und ja das ist mir passiert - doch mal "leicht" verschlafen kann. Aus diesem Grund habe ich sicherheitshalber immer einen Wecker gestellt.
+Die Wecker-Funktion lässt euch über die App für entsprechende Tage die Uhrzeit zum Wecken festlegen. Zusätzlich könnt ihr definieren, dass 30 Minuten vor der festgelegten Zeit geprüft wird, ob ihr euch in einer leichten Schlafphase befindet und ihr entsprechend früher geweckt werdet. Das Armband vibriert dann und hört auf, sobald man sich bewegt. Ich empfinde diese Weckmöglichkeit als viel angenehmer als den lauten Wecker, jedoch hört das Band irgendwann auf zu wecken, wodurch man - und ja, das ist mir passiert - doch mal "leicht" verschlafen kann. Aus diesem Grund habe ich sicherheitshalber immer einen Wecker gestellt.
 
 ##Fazit
-Für einen sehr geringen Preis erhält man hier ein ziemlich unauffälliges Armband, welches sehr zuverlässig und einfach funktioniert. Der Akku hält zwischen 2-4 Wochen und muss somit nicht ständig geladen werden. Ohne Bluetooth-Verbindung zum Smartphone speichert das Miband alle Informationen der letzten 10 Tage und überträgt diese, sobald es verbunden wird. Da es der IP67 Bestimmung entspricht muss man es nicht mal zum duschen ausziehen und es fällt nach einigen Tagen überhaupt nicht mehr weiter auf. Die Hinweisfunktion bei Anrufen ist mein persönlicher Favorit und allein deswegen finde ich, dass das Armband sein Geld wert ist. Für jeden, der ein Fitnessarmband testen möchte, ist das die perfekte Möglichkeit. Für Personen, die es auffälliger möchten, gibt es entsprechend ein Lederabend, das problemlos dazu bestellt werden kann.
+Für einen sehr geringen Preis erhält man hier ein ziemlich unauffälliges Armband, welches sehr zuverlässig und einfach funktioniert. Der Akku hält zwischen 2-4 Wochen und muss somit nicht ständig geladen werden. Ohne Bluetooth-Verbindung zum Smartphone speichert das Miband alle Informationen der letzten 10 Tage und überträgt diese, sobald es verbunden wird. Da es der IP67-Bestimmung entspricht, muss man es nicht mal zum Duschen ausziehen, und es fällt nach einigen Tagen überhaupt nicht mehr weiter auf. Die Hinweisfunktion bei Anrufen ist mein persönlicher Favorit, und allein deswegen finde ich, dass das Armband sein Geld wert ist. Für jeden, der ein Fitnessarmband testen möchte, ist das die perfekte Möglichkeit. Für Personen, die es auffälliger möchten, gibt es entsprechend ein Lederabend, das problemlos dazu bestellt werden kann.
 
 [Hier](http://www.amazon.de/gp/product/B00Q5P79TO/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00Q5P79TO&linkCode=as2&tag=webworkersio-21&linkId=GHXL2OOMDTF7E7EI) könnt ihr das Armband bestellen und uns gleichzeitig kostenfrei unterstützen.
