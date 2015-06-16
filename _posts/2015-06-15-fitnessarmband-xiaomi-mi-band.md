@@ -8,9 +8,6 @@ comments: true
 image: mibandpackage.jpg
 ---
 
-
-
-
 ...die Neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit, für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
 ![mibandpackage]({{site.baseurl}}/images/mibandpackage.jpg)
@@ -33,19 +30,19 @@ Das Armband kann auch mehrere Tage ohne Verbindung zum Smartphone alle Aktivitä
 ## Was kann das Armband alles...
 Das Armband hat hauptsächlich drei Funktionen, die wirklich nützlich sind und mich persönlich auch überzeugt haben.
 
-### Schrittzähler und Schlafüberwachung
+## Schrittzähler und Schlafüberwachung
 Das Armband ermöglicht einem - im Gegensatz zum Smartphone - die Distanz zu ermitteln, die man täglich zurücklegt. Dies tut es auch recht zuverlässig. Jedoch steigt durch Handbewegungen auch die Anzahl der Schritte. Als Richtwert finde ich die Anzahl der Schritte jedoch sehr praktisch und schaue mir diese auch täglich an.
 
 ![DSC07001.jpg]({{site.baseurl}}/images/DSC07001.jpg)
 
 Zusätzlich zeichnet das Armband den Schlafrythmus auf und unterscheidet zwischen tiefen Schlafphasen und leichten Schlafphasen. Wie genau diese Darstellung ist, ist für mich als schlafende Person schwer einzuschätzen. Somit würde ich mich darauf nicht allzu sehr verlassen. Nützlich finde ich aber die Zeitangabe, wann ich etwa eingeschlafen und aufgestanden bin. Diese ist recht zuverlässig.
 
-### Vibrationshinweis bei Anrufen
+## Vibrationshinweis bei Anrufen
 Wirklich praktisch ist die Hinweisfunktion bei Anrufen. In der entsprechenden App kann eingestellt werden, dass das Armband bei einem Anruf vibriert. Die Option findet ihr rechts oben in der App unter dem Menüpunkt "Settings". Für "Vibrate for incoming calls" könnt ihr die Zeit definieren, nach der das Armband überhaupt beginnen soll zu informieren.
 
 ![callsettings]({{site.baseurl}}/images/callsettings.png)
 
-### Wecker
+## Wecker
 Die Wecker-Funktion lässt euch über die App für entsprechende Tage die Uhrzeit zum Wecken festlegen. Zusätzlich könnt ihr definieren, dass 30 Minuten vor der festgelegten Zeit geprüft wird, ob ihr euch in einer leichten Schlafphase befindet und ihr entsprechend früher geweckt werdet. Das Armband vibriert dann und hört auf, sobald man sich bewegt. Ich empfinde diese Weckmöglichkeit als viel angenehmer als den lauten Wecker, jedoch hört das Band irgendwann auf zu wecken, wodurch man - und ja, das ist mir passiert - doch mal "leicht" verschlafen kann. Aus diesem Grund habe ich sicherheitshalber immer einen Wecker gestellt.
 
 ##Fazit
