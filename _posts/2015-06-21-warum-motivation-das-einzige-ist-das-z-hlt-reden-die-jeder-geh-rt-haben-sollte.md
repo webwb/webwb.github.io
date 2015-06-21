@@ -16,4 +16,4 @@ categories: life
 
 ## Tu das was dein Herz sagt und nicht was andere von dir verlangen
 
-<iframe width="720" height="415" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen></iframe>'
+<iframe width="750" height="415" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen></iframe>'
