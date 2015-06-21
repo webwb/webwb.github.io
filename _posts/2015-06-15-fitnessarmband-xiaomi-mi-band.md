@@ -8,12 +8,13 @@ comments: true
 image: mibandpackage.jpg
 ---
 
-...die Neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit, für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
-![mibandpackage]({{site.baseurl}}/images/mibandpackage.jpg)
+...die Neugier hat mich gepackt und mit dem Xiamoi Mi Band habe ich mir das erste Fitnessarmband zugelegt. Im Gegensatz zur Apple Watch bietet der günstige Preis des Armbands eine sehr gute Möglichkeit, für sich selber zu testen, ob Informationen über den eigenen Körper bzw. das Verhalten wertvoll sind.
 
 ## Was bekommt man alles..
 Die Verpackung des Bandes ist sehr klein - die Umwelt dankt es - und enthält lediglich das Armband und ein USB-Ladekabel. Die [App "Mi Fit"](https://itunes.apple.com/de/app/mi-fit/id938688461?mt=8) kann man sich ganz leicht für iOS aus dem AppStore laden.
+
+![mibandpackage]({{site.baseurl}}/images/mibandpackage.jpg)
 
 ## Wie schnell ist das Band einsatzbereit...
 Genau vier Schritte reichen, damit das Armband einsatzbereit ist und man beginnen kann, seine Aktivitäten zu tracken...
