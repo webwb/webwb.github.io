@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Diese Motivationsreden musst du kennen! - Teil 1"
 author: André Borges
