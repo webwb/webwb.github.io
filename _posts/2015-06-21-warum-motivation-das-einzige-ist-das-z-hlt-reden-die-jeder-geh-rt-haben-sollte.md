@@ -5,10 +5,8 @@ title: "Diese Motivationsreden musst du kennen! - Teil 1"
 author: André Borges
 comments: true
 categories: life
-image: /images/motioverview.jpg
+image: motioverview.jpg
 ---
-
-
 
 ## Einleitung
 Es gibt nichts wertvolleres, als aus Erfahrung anderer Menschen zu lernen. Deshalb möchte ich euch in diesem Beitrag die folgenden drei Reden empfehlen und euch motivieren eure Ideen umzusetzen und nicht aufzugeben.
