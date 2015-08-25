@@ -12,7 +12,6 @@ image: motioverview.jpg
 Es gibt nichts wertvolleres, als aus Erfahrung anderer Menschen zu lernen. Deshalb möchte ich euch in diesem Beitrag die folgenden drei Reden empfehlen und euch motivieren eure Ideen umzusetzen und nicht aufzugeben.
 
 ![bannerarticle.jpg]({{site.baseurl}}/images/bannerarticle.jpg)
-Foto von [Joshua Earle](www.joshuaearlephotography.com)
 
 ## Denzel Washington
 Anhand seiner eigenen Geschichte und seinem Erfolg, macht Denzel eins deutlich - "Wenn du nicht scheiterst, hast du es nicht ein mal versucht."
@@ -31,3 +30,6 @@ Neben der Ansicht das jede Erfahrung im Leben rückblickend notwendig und hilfre
 <iframe width="740" height="415" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen></iframe>'
 
 Ihr kennt noch weitere Reden die jeder kennen sollte? Nutzt unsere Kommentarfunktion!
+
+//Foto von [Joshua Earle](www.joshuaearlephotography.com)
+
