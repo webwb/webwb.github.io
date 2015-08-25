@@ -31,5 +31,5 @@ Neben der Ansicht das jede Erfahrung im Leben rückblickend notwendig und hilfre
 
 Ihr kennt noch weitere Reden die jeder kennen sollte? Nutzt unsere Kommentarfunktion!
 
-//Foto von [Joshua Earle](www.joshuaearlephotography.com)
+//Foto von [Joshua Earle](http://www.joshuaearlephotography.com)
 
