@@ -74,6 +74,14 @@ navigation: about
       <li>CSS</li>
       <li>Adobe AEM</li>
       <li>Lightroom</li>
+      <li>SEO</li>
+    </ul>
+  </div>
+    <div class="profile-skills">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="http://www.lopesmario.com">Mario Lopes</a></li>
+      <!--<li>Fahrtenbucher</li> */ -->
     </ul>
   </div>
   <div class="profile-contacts">
