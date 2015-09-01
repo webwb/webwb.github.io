@@ -8,7 +8,6 @@ image: DSC06973.jpg
 comments: true
 ---
 
-
 ...obwohl die erste Ausgabe dieses Buches 1997 erschienen und es somit ganze 18 Jahre alt ist, ist es erschreckend aktuell! Durch Zufall bin ich auf das Buch gekommen und war zunächst von dem hohen Preis abgeschreckt. Die vielen positiven Bewertungen und die unzähligen Auszeichnungen haben mich dann doch schließlich dazu bewegt, dieses Buch zu lesen und dies war kein Fehler.
 
 ![TheInnovatorsCover]({{site.baseurl}}/images/DSC06973.jpg)
