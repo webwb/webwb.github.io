@@ -36,11 +36,28 @@ https://developers.google.com/speed/pagespeed/insights/
 ## Schritt 2: Seite auf Metatags und sonstige Punkte prüfen
 Im zweiten Schritt prüfen wir, welche weitere Optimierungen wir auf der Seite durchführen können.
 
+http://www.seitenreport.de
+http://www.seoworkers.com/tools/analyzer.html
+http://seositecheckup.com/
+http://seobility.net/de
+http://seoptimer.com
+
 ### Seitenreport
 Die Seite http://www.seitenreport.de bietet eine Analyse der Seite an.
 Wichtige Hinweise (die sonst andere nicht haben):
 - Prüfung auf den Language-Key
 
+### Seoworkers
+http://www.seoworkers.com/tools/analyzer.html
+
+### Seositecheckup
+Eine sehr ausführliche Möglichkeit seine Seite zu prüfen. http://seositecheckup.com/
+
+### Seobility
+asdasd
+
+### Seoptimer
+Erstellt eine schöne To-Do-Liste http://seoptimer.com
 
 
 ## Seite in Verzeichnisse eintragen
