@@ -7,8 +7,6 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
-
-
 ## Schritt 1: Seite auf HTML/CSS Fehler prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -22,6 +20,8 @@ Nach einigen Korrekturen sollten hier keine Fehler mehr auftauchen.
 Ein CSS-Check kann über folgende Seite erfolgen:
 http://jigsaw.w3.org/css-validator/
 
+## Schritt 2: Seite auf Metatags und sonstige Punkte prüfen
+Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit
 
 ## Seite in Verzeichnissen eintragen
 
