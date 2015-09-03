@@ -58,3 +58,8 @@ Hinweis: Alle Vorschläge werden händisch geprüft, weshalb ein Eintrag in dies
 #### WOT-Rating
 Das Plugin WOT zeigt Nutzern ob es sich bei einer Seite, um eine vertrauenswürdige Seite handelt.
 Sein Unternehmen kann man unter https://www.mywot.com/ angeben.
+
+### Google Analytics
+Um die Statistiken der eigenen Seite tracken zu können, verwenden die meisten Seitenbetreiber Google Analytics. Da das Unternehmen aus Amerika stammt kann es durch Analyse-Daten umfangreiche Persöhnlichkeitsprofile der User anfertigen.
+
+Für einen datenschutzkonformen Einsatz bietet Google Analytics die Funktion _anonymizeIp() an, mit der die IP Adressen vor der Übermittlung an Google anonymisiert werden.
