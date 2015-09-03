@@ -7,7 +7,7 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
-## Schritt 1: Seite auf HTML/CSS Fehler prüfen
+## Schritt 1: Die Seite auf die handwerkliche Umsetzung prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
 ### HTML
@@ -20,10 +20,22 @@ Nach einigen Korrekturen sollten hier keine Fehler mehr auftauchen.
 Ein CSS-Check kann über folgende Seite erfolgen:
 http://jigsaw.w3.org/css-validator/
 
-## Schritt 2: Seite auf Metatags und sonstige Punkte prüfen
-Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit
+## Performance
+Ein wichtiger Faktor für die Nutzer beim Aufruf der Seite, aber auch der Bewertung der eigenen Seite durch Google ist die Geschwindigkeit der Seite.
+Um eine Vebesserung der Performance durchzuführen, kann das PageSpeed Tool von Google verwendet werden. Neben einer Auswertung bietet es auch Hinweise auf Verbesserungsmöglichkeiten.
+https://developers.google.com/speed/pagespeed/insights/
 
-## Seite in Verzeichnissen eintragen
+## Schritt 2: Seite auf Metatags und sonstige Punkte prüfen
+Im zweiten Schritt prüfen wir, welche weitere Optimierungen wir auf der Seite durchführen können.
+
+### Seitenreport
+Die Seite http://www.seitenreport.de bietet eine Analyse der Seite an.
+Wichtige Hinweise (die sonst andere nicht haben):
+- Prüfung auf den Language-Key
+
+
+
+## Seite in Verzeichnisse eintragen
 
 ### DMOZ
 Ein wichtiges globales Verzeichnis ist http://www.dmoz.org.
