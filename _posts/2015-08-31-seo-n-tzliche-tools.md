@@ -43,6 +43,8 @@ http://seobility.net/de
 http://seoptimer.com
 https://www.dareboost.com/home
 http://www.seitwert.de/seitwert.php
+http://www.qualidator.com/
+https://moz.com/tools
 
 ### Seitenreport
 Die Seite http://www.seitenreport.de bietet eine Analyse der Seite an.
