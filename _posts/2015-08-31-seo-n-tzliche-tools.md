@@ -41,6 +41,8 @@ http://www.seoworkers.com/tools/analyzer.html
 http://seositecheckup.com/
 http://seobility.net/de
 http://seoptimer.com
+https://www.dareboost.com/home
+http://www.seitwert.de/seitwert.php
 
 ### Seitenreport
 Die Seite http://www.seitenreport.de bietet eine Analyse der Seite an.
@@ -68,9 +70,10 @@ Hier sollte eure Seite in der korrekten Kategorie mit dem entsprechenden Titel u
 
 Hinweis: Alle Vorschläge werden händisch geprüft, weshalb ein Eintrag in diesem Verzeichnis sehr lange dauern kann.
 
-## Seite in Verzeichnisse eintragen
+### Wikipedia
+Durch das sehr gute Ranking von Wikipedia bietet es sich an, eine Verlinkung der eigenen Seite zu platzieren, sofern sinnvoll und möglich.
 
-### Nice-to-have
+## Nice-to-have
 
 #### WOT-Rating
 Das Plugin WOT zeigt Nutzern ob es sich bei einer Seite, um eine vertrauenswürdige Seite handelt.
