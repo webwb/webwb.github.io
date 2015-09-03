@@ -80,3 +80,8 @@ Sein Unternehmen kann man unter https://www.mywot.com/ angeben.
 Um die Statistiken der eigenen Seite tracken zu können, verwenden die meisten Seitenbetreiber Google Analytics. Da das Unternehmen aus Amerika stammt kann es durch Analyse-Daten umfangreiche Persöhnlichkeitsprofile der User anfertigen.
 
 Für einen datenschutzkonformen Einsatz bietet Google Analytics die Funktion _anonymizeIp() an, mit der die IP Adressen vor der Übermittlung an Google anonymisiert werden.
+
+### Sitemap erstellen
+Eine Sitemap hilft Suchmaschinen den kompletten Inhalt der Webseite zu erfassen.
+Die Erstellung einer Sitemap kann manuell erfolgen oder mit einem Tool wie
+https://www.xml-sitemaps.com/.
