@@ -85,3 +85,5 @@ Für einen datenschutzkonformen Einsatz bietet Google Analytics die Funktion _an
 Eine Sitemap hilft Suchmaschinen den kompletten Inhalt der Webseite zu erfassen.
 Die Erstellung einer Sitemap kann manuell erfolgen oder mit einem Tool wie
 https://www.xml-sitemaps.com/.
+
+Die erstellte Sitemap kann dann entsprechend in das root-Verzeichnis gelegt werden und im [Google Webmaster Tool](https://www.google.com/webmasters/tools/home) eingetragen werden.
