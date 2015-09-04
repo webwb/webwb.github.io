@@ -7,6 +7,7 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
+
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -94,3 +95,7 @@ https://www.xml-sitemaps.com/.
 Die erstellte Sitemap kann dann entsprechend in das root-Verzeichnis gelegt werden und im [Google Webmaster Tool](https://www.google.com/webmasters/tools/home) eingetragen werden.
 
 Hinweis: Auch Bing bietet die Möglichkeit über das Dashboard die eigene Sitemap einzureichen.
+
+### Google Suche
+Mit dem Tool können Daten die über schema.org an Google übergeben werden sollen, überprüft werden.
+https://developers.google.com/structured-data/testing-tool/
