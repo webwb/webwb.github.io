@@ -7,6 +7,7 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
+
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -96,6 +97,9 @@ Hinweis: Auch Bing bietet die Möglichkeit über das Dashboard die eigene Sitema
 ### Google Suche
 Mit dem Tool können Daten die über schema.org an Google übergeben werden sollen, überprüft werden.
 https://developers.google.com/structured-data/testing-tool/
+
+Helfen kann auch...
+https://www.google.com/webmasters/markup-helper/u/0/
 
 ## Domainhandling
 Um die Linkpopularität zu steigern, sollte eine htaccess Datei eingerichtet werden. Zum einen sollte kein Unterschied zwischen dem Aufruf mit und ohne www existieren. Zum anderen sollte eine Domain als die Hauptdomain genutzt werden.
