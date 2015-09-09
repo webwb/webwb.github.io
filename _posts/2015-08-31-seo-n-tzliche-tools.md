@@ -7,8 +7,6 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
-
-
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
