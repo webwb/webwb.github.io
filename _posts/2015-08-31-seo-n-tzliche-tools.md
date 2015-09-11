@@ -7,6 +7,7 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
+
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -102,6 +103,11 @@ https://www.google.com/webmasters/markup-helper/u/0/
 
 ## Domainhandling
 Um die Linkpopularität zu steigern, sollte eine htaccess Datei eingerichtet werden. Zum einen sollte kein Unterschied zwischen dem Aufruf mit und ohne www existieren. Zum anderen sollte eine Domain als die Hauptdomain genutzt werden.
+
+## Suchbegriffe analysieren und Inhalte verbessern
+Der Inhalt einer Seite muss so gestaltet sein, das Google die Inhalte der Seite entsprechend für relevant hält. Daher lohnt es sich einen Blick in das Google Webmastertool zu werfen und relevante Suchbegriffe zu ermitteln.
+
+https://www.google.com/webmasters/tools/search-analytics?hl=de&authuser=0&siteUrl=<domain>
 
 ## Caching
 Nutzer sollten bereits geladene Ressourcen nicht erneut laden müssen. Hierfür bietet sich ein Caching an.
