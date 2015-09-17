@@ -42,8 +42,14 @@ prose:
           type: "text"
       - name: "published"
         field:
-          element: 'hidden'
-          value: true
+          element: 'select'
+          label: "Published"
+          placeholder: "Published or not?"
+          options:
+            - name: "publish"
+              value: "true"
+            - name: "not"
+              value: "false"
       - name: "comments"
         field:
           element: "checkbox"
