@@ -42,9 +42,8 @@ prose:
           type: "text"
       - name: "published"
         field:
-          element: 'text'
+          element: 'hidden'
           value: false
-          type: "text"
       - name: "comments"
         field:
           element: "checkbox"
