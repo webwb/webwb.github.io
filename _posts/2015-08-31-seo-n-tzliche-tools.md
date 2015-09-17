@@ -9,6 +9,7 @@ title: "Seo - Nützliche Tools..."
 
 
 
+
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -115,6 +116,10 @@ Jeder Seitenbetreiber muss sich bei weiteren Sprachen überlegen, in welcher For
 Hier stellt sich die Frage welches Ziel man verfolgt. Grundsätzlich bieten Länderdomains eine sehr gute Alternative wenn man die Inhalte der Länder trennen möchte.
 
 Subdomains
+
+## Anker & Onepager
+https://developers.google.com/webmasters/ajax-crawling/docs/getting-started
+https://developers.google.com/webmasters/ajax-crawling/docs/getting-started
 
 ## Suchbegriffe analysieren und Inhalte verbessern
 Der Inhalt einer Seite muss so gestaltet sein, das Google die Inhalte der Seite entsprechend für relevant hält. Daher lohnt es sich einen Blick in das Google Webmastertool zu werfen und relevante Suchbegriffe zu ermitteln.
