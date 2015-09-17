@@ -112,6 +112,10 @@ Jeder Seitenbetreiber muss sich bei weiteren Sprachen überlegen, in welcher For
 2. Sub-Domains z.b. "de.meineseite.com" & "en.meineseite.com"
 3. Pfad "meineseite.com/france/" & "meineseite.com/englisch/"
 
+Hier stellt sich die Frage welches Ziel man verfolgt. Grundsätzlich bieten Länderdomains eine sehr gute Alternative wenn man die Inhalte der Länder trennen möchte.
+
+Subdomains
+
 ## Suchbegriffe analysieren und Inhalte verbessern
 Der Inhalt einer Seite muss so gestaltet sein, das Google die Inhalte der Seite entsprechend für relevant hält. Daher lohnt es sich einen Blick in das Google Webmastertool zu werfen und relevante Suchbegriffe zu ermitteln.
 
