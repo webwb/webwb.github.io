@@ -42,7 +42,7 @@ prose:
           type: "text"
       - name: "published"
         field:
-          element: 'text'
+          element: 'hidden'
           value: false
       - name: "comments"
         field:
