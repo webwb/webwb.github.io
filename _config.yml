@@ -42,14 +42,8 @@ prose:
           type: "text"
       - name: "published"
         field:
-          element: 'select'
-          label: "Published"
-          placeholder: "Published or not?"
-          options:
-            - name: "publish"
-              value: "true"
-            - name: "not"
-              value: "false"
+          element: 'text'
+          value: false
       - name: "comments"
         field:
           element: "checkbox"
