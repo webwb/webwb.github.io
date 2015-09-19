@@ -7,9 +7,6 @@ image: ""
 title: "Seo - Nützliche Tools..."
 ---
 
-
-
-
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
 Im ersten Schritt sollte die Seite zunächst auf handwerkliche Fehler geprüft werden. Ein Beispiel hierfür ist z.B. ob alle Bilder eine Webseite alternative Texte bekommen haben. Dies hilft Google beispielsweise diese Bilder und damit auch die Webseite besser zu kategorisieren. 
 
@@ -115,7 +112,24 @@ Jeder Seitenbetreiber muss sich bei weiteren Sprachen überlegen, in welcher For
 
 Hier stellt sich die Frage welches Ziel man verfolgt. Grundsätzlich bieten Länderdomains eine sehr gute Alternative wenn man die Inhalte der Länder trennen möchte.
 
-Subdomains
+## Mime-Types nutzen
+MIME hat sich als besonders nützlich im Umgang mit Datentypen erwiesen und wird mittlerweile nicht mehr nur als Verweis auf das Format eines Email-Anhangs gebraucht. Vielmehr haben sich die MIME-Spezifikationen auch als Standard im Bereich von Internetprotokollen durchgesetzt. Der Grund liegt darin, dass bei jedem Dialog zwischen einem Klienten und einem Server bestimmte Metadaten übertragen werden. MIME definiert einen wichtigen Teil dieser Metadaten, die im Header eines HTML-Dokumentes weitergegeben werden. Sowohl Server als auch Browser wissen dann, welche Datentypen gerade übertragen und gelesen oder ausgeführt werden sollen.
+
+Die Algorithmen der Suchmaschinen versuchen stets, den gesamten Inhalt eines HTML-Dokumentes auszulesen. Vor einigen Jahren konnten sie noch keine Dateiformate wie Bilder, Videos oder Podcasts crawlen. Für die MIME-Datentypen gilt: Auch wenn Suchmaschinen nicht den gesamten Inhalt lesen können, wissen sie zumindest, welche Datentypen in dem jeweiligen Dokument zu finden sind und haben dadurch einen Hinweis auf den Inhalt. Ferner können weitere Metadaten an den User-Agent einer Suchmaschine weitergegeben werden, damit klar ist, wie der Inhalt einzustufen ist.
+
+Beispiele:
+1. CSS Dateien markieren
+<link type="text/css" media="all" href="css/style.css" rel="stylesheet">
+
+2.
+<script type='text/javascript' src="js/headroom.js"></script>
+
+## Google Analytics anonymisieren
+Um die IP-Adressen der Nutzer zu anonymisieren und somit das deutsche Recht einzuhalten, muss folgendes Stück in den Analytics Code eingefügt werden.
+
+  	ga('create', 'UA-53600882-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+  	ga('send', 'pageview');
 
 ## Anker & Onepager
 https://developers.google.com/webmasters/ajax-crawling/docs/getting-started
