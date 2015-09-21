@@ -62,3 +62,5 @@ Die Lösung unterstützt sowohl YouTube, als auch Vimeo Videos und noch einige w
         <iframe width="740" height="415" 	src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen>     </iframe>
         </div>
     ~~~
+
+Das Ergebnis könnt ihr euch [hier](http://webworkers.io/life/2015/08/25/warum-motivation-das-einzige-ist-das-z-hlt-reden-die-jeder-geh-rt-haben-sollte.html) anschauen.
