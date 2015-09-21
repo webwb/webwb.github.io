@@ -19,7 +19,7 @@ Einen Sonderfall bilden jedoch Videos die über ein iFrame eingebunden werden.
 ## Das Problem mit eingebundenen Videos von Youtube und Co.
 Jeder der ein Youtube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
 
-Bei einem responsive Design sieht das ganze dann leider auf kleineren Bidlschirmen wie folgt aus:
+Bei einem responsive Design sieht das ganze dann leider auf kleineren Bildschirmen wie folgt aus:
 ![Embedded Video nicht responsive]({{site.baseurl}}/images/videononresponsiv.jpg)
 
 ## Die "umständliche" CSS Lösung
