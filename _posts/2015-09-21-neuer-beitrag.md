@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 author: André Borges
 comments: true
 categories: life
 image: ""
 title: Neuer Beitrag
 ---
+
 
 ## A New Post
 
