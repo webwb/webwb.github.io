@@ -22,9 +22,6 @@ Jeder der ein Youtube- oder Vimeo-Video in seine responsive Seite einbaut, wird 
 Bei einem responsive Design sieht das ganze dann leider auf kleineren Bidlschirmen wie folgt aus:
 ![Embedded Video nicht responsive]({{site.baseurl}}/images/videononresponsiv.jpg)
 
-Wünschenswert wäre das sich das Video entsprechend der Auflösung skaliert:
-![Embedded Video responsive]({{site.baseurl}}/images/videoresponsive.png)
-
 ## Die "umständliche" CSS Lösung
 Im Beitrag ["Creating Intrinsic Ratios for Video"](http://alistapart.com/article/creating-intrinsic-ratios-for-video) von Thierry Koblentz wird ausführlich erläutert wie mithilfe von prozentualem padding ein responsives Verhalten von eingebundenen externen Videos geschaffen wird.
 
