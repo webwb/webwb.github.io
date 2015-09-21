@@ -27,7 +27,8 @@ Die Lösung unterstützt sowohl Youtube, als auch Vimeo Videos und noch einige w
 
 2.  Fügt die Script Dateien eurer HTML-Datei hinzu. In meinem Fall sieht dies wie folgt aus...
 
-~~~html
+
+```
     <!-- embedded videos -->
     <script src="/js/jquery-2.1.4.min.js"></script>
     <script src="/js/jquery.fitvids.js"></script>
@@ -37,7 +38,7 @@ Die Lösung unterstützt sowohl Youtube, als auch Vimeo Videos und noch einige w
         $(".video").fitVids();
       });
     </script>
-~~~
+```
 
 3.  Fügt der CSS-Datei eine entsprechende Klasse hinzu
 
