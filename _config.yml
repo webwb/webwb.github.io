@@ -31,9 +31,9 @@ prose:
           label: "Autor"
           placeholder: "Choose your name"
           options:
-            - name: "Andre"
+            - name: "André Borges"
               value: "André Borges"
-            - name: "Nils"
+            - name: "Nils Bolsen"
               value: "Nils Bolsen"
       - name: "title"
         field:
