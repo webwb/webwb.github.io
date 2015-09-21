@@ -19,16 +19,6 @@
     <meta property="og:description" content="{{ page.excerpt | strip_html | truncate:200}}" />
     <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}" />
     
-    <!-- embedded videos -->
-    <script src="/js/jquery-2.1.4.min.js"></script>
-    <script src="/js/jquery.fitvids.js"></script>
-    <script>
-      $(document).ready(function(){
-        // Target your .container, .wrapper, .post, etc.
-        $(".video").fitVids();
-      });
-    </script>
-    
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <!-- favicon -->
 
