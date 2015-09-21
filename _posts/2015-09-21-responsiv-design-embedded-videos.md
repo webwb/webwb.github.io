@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 author: André Borges
 comments: true
 categories: digital
 image: ""
 title: "Responsiv Design - Embedded Videos"
 ---
+
 
 
 Jeder der ein Youtube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
@@ -51,7 +52,7 @@ Die Lösung unterstützt sowohl Youtube, als auch Vimeo Videos und noch einige w
 4.  Nun könnt ihr um die von euch eingebundenen Videos die entsprechende div mit der Klasse "video" setzen.
 
 ~~~html
-<div class="video">
-<iframe width="740" height="415" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen></iframe>
-</div>
+    <div class="video">
+    <iframe width="740" height="415" 		src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen> </iframe>
+    </div>
 ~~~
