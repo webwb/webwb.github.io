@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: André Borges
 comments: true
 categories: digital
@@ -26,7 +26,8 @@ Die Lösung unterstützt sowohl Youtube, als auch Vimeo Videos und noch einige w
 1.  Ihr benötigt die [fitvids.js](https://github.com/davatron5000/FitVids.js/blob/master/jquery.fitvids.js) und falls nicht bereits in Verwendung die [jquery.js](https://jquery.com/download/)
 
 2.  Fügt die Script Dateien eurer HTML-Datei hinzu. In meinem Fall sieht dies wie folgt aus...
-
+<p data-height="134" data-theme-id="19116" data-slug-hash="QjEgyP" data-default-tab="result" data-user="cpne" class='codepen'>See the Pen <a href='http://codepen.io/cpne/pen/QjEgyP/'>QjEgyP</a> by André (<a href='http://codepen.io/cpne'>@cpne</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ```
     <!-- embedded videos -->
