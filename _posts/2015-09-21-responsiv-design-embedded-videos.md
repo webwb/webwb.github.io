@@ -16,7 +16,6 @@ Einen Sonderfall bilden jedoch Videos, die über ein iFrame eingebunden werden.
 
 ![Responsivevideos]({{site.baseurl}}/images/responsiveteaser.jpg)
 
-
 ## Das Problem mit eingebundenen Videos von YouTube und Co.
 Jeder, der ein YouTube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
 
