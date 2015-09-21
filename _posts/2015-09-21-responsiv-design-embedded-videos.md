@@ -8,11 +8,18 @@ image: ""
 title: "Youtube & Vimeo-Videos responsive einbinden - So geht's!"
 ---
 
+Eine responsive Webseite passt sich selber der Auflösung des Gerätes an. Unabhängig ob es sich um ein Smartphone oder ein Tablet handelt - allen Nutzern wird eine Seite angeboten. Der Vorteil hierbei ist, dass lediglich eine Webseite administriert und angepasst werden muss und nicht für jedes Gerät eine entsprechende Version. Dies wird erreicht, in dem sich alle Elemente wie Bilder und Texte skalieren lassen. 
+
+Einen Sonderfall bilden jedoch Videos die über ein iFrame eingebunden werden.
+
+## Das Problem mit eingebundenen Videos von Youtube und Co.
 Jeder der ein Youtube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
 
-Bei einem responsive Design sieht das ganze dann leider auf kleineren Bidlschirmen wie folgt aus...
+Bei einem responsive Design sieht das ganze dann leider auf kleineren Bidlschirmen wie folgt aus:
+![Embedded Video nicht responsive]({{site.baseurl}}/images/videononresponsiv.jpg)
 
-![Embedded Video nicht responsive]({{site.baseurl}}/images/videononresponsiv.png)
+Wünschenswert wäre das sich das Video entsprechend der Auflösung skaliert:
+![Embedded Video responsive]({{site.baseurl}}/images/videoresponsive.png)
 
 ## Die "umständliche" CSS Lösung
 Im Beitrag ["Creating Intrinsic Ratios for Video"](http://alistapart.com/article/creating-intrinsic-ratios-for-video) von Thierry Koblentz wird ausführlich erläutert wie mithilfe von prozentualem padding ein responsives Verhalten von eingebundenen externen Videos geschaffen wird.
