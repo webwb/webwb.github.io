@@ -4,13 +4,17 @@ published: true
 author: André Borges
 comments: true
 categories: digital
-image: ""
+image: images/responsiveteaser.jpg
 title: "Youtube & Vimeo-Videos responsive einbinden - So geht's!"
 ---
+
 
 Eine responsive Webseite passt sich selber der Auflösung des Gerätes an. Unabhängig ob es sich um ein Smartphone oder ein Tablet handelt - allen Nutzern wird eine Seite angeboten. Der Vorteil hierbei ist, dass lediglich eine Webseite administriert und angepasst werden muss und nicht für jedes Gerät eine entsprechende Version. Dies wird erreicht, in dem sich alle Elemente wie Bilder und Texte skalieren lassen. 
 
 Einen Sonderfall bilden jedoch Videos die über ein iFrame eingebunden werden.
+
+![Responsivevideos]({{site.baseurl}}/images/responsiveteaser.jpg)
+
 
 ## Das Problem mit eingebundenen Videos von Youtube und Co.
 Jeder der ein Youtube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
