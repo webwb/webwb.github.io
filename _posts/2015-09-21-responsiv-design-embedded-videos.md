@@ -30,8 +30,7 @@ Die von Thierry Koblentz beschriebene Lösung wird mit [Fitvid](http://fitvidsjs
 
 Die Lösung unterstützt sowohl YouTube, als auch Vimeo Videos und noch einige weitere Plattformen. Für nicht unterstützte Plattformen wird ein Custom Selector angeboten, wodurch man weitere Video Hoster hinzufügen kann.
 
-### Wie wird diese eingebunden...
-
+### So geht's...
 1.  Ihr benötigt die [fitvids.js](https://github.com/davatron5000/FitVids.js/blob/master/jquery.fitvids.js) und falls nicht bereits in Verwendung die [jquery.js](https://jquery.com/download/)
 
 2.  Fügt die Script Dateien eurer HTML-Datei hinzu. In meinem Fall sieht dies wie folgt aus...
@@ -68,4 +67,5 @@ Das Ergebnis könnt ihr euch [hier](http://webworkers.io/life/2015/08/25/warum-m
 ## Die "sehr schnelle" iFrame Lösung für Anfänger
 Du möchtest oder kannst keine Änderungen an deiner Seite durchführen? Hierfür gibt es noch die Möglichkeit dem Embed Code des Videos den entsprechenden Style mitzugeben.
 
+### So geht's...
 Einfach den Link zum Video [hier eingeben](http://embedresponsively.com/) und den entsprechenden Code generieren lassen. Diesen könnt ihr dann ganz einfach in eure Seite einfügen.
