@@ -18,7 +18,7 @@ Einen Sonderfall bilden jedoch Videos, die über einen iFrame eingebunden werden
 Jeder, der ein YouTube- oder Vimeo-Video in seine responsive Seite einbaut, wird zu dem Problem kommen, dass den Videos eine feste Höhe und Breite mitgegeben wird.
 
 Bei einem responsiven Design sieht das Ganze dann leider auf kleineren Bildschirmen wie folgt aus:
-![Embedded Video nicht responsive]({{site.baseurl}}/images/videononresponsiv.jpg)
+![Embed Video nicht responsive]({{site.baseurl}}/images/videononresponsive.png)
 
 ## Die grundlegende CSS Lösung
 Im Beitrag ["Creating Intrinsic Ratios for Video"](http://alistapart.com/article/creating-intrinsic-ratios-for-video) von Thierry Koblentz wird ausführlich erläutert, wie mithilfe von prozentualem Padding ein responsives Verhalten von eingebundenen, externen Videos geschaffen wird.
