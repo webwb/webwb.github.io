@@ -5,8 +5,9 @@ comments: true
 categories: digital
 image: responsiveteaser.jpg
 published: true
-title: "YOUTUBE & VIMEO-VIDEOS RESPONSIVE EINBINDEN - SO GEHT'S!"
+title: "Youtube & Vimeo-Videos responsive einbinden - So geht's!"
 ---
+
 
 Eine responsive Webseite passt sich selbst der Auflösung des Gerätes an. Unabhängig davon, ob es sich um ein Smartphone oder ein Tablet handelt, wird allen Nutzern eine Seite angeboten. Der Vorteil hierbei ist, dass lediglich eine Webseite administriert und angepasst werden muss und nicht für jedes Gerät eine entsprechende Version. Dies wird erreicht, indem sich alle Elemente wie Bilder und Texte skalieren lassen. 
 
