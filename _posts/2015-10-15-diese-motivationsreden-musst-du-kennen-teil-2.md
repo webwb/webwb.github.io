@@ -4,7 +4,7 @@ author: André Borges
 comments: true
 categories: life
 image: moti2overview.jpg
-published: false
+published: true
 title: "Diese Motivationsreden musst du kennen! - Teil 2"
 ---
 
