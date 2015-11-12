@@ -3,11 +3,12 @@ layout: post
 author: André Borges
 comments: true
 categories: life
-image: ""
+image: moti2overview.jpg
 published: false
 title: "Diese Motivationsreden musst du kennen! - Teil 2"
 ---
 
+![moti2overview.jpg]({{site.baseurl}}/images/moti2overview.jpg)
 
 
 ![Motivationsbanner Teil 2]({{site.baseurl}}/images/moti2banner.jpg)
