@@ -10,12 +10,16 @@ title: "Diese Motivationsreden musst du kennen! - Teil 2"
 
 
 
-Es gibt nichts wertvolleres, als aus Erfahrung anderer Menschen zu lernen. Deshalb möchte ich euch in diesem Beitrag die folgenden drei Reden empfehlen und euch motivieren eure Ideen umzusetzen und nicht aufzugeben.
+![Motivationsbanner Teil 2]({{site.baseurl}}/images/moti2banner.jpg)
 
-![bannerarticle.jpg]({{site.baseurl}}/images/bannerarticle.jpg)
+## Neil Gaiman
+Tu die Dinge die dir wichtig sind, bevor du erfolgreich in den Dingen wirst, die du nur des Gelds wegen tust und keine Zeit mehr für die wichtigen Dinge bleibt.
+
+<div class="video">
+<iframe width="740" height="415" src="https://www.youtube.com/watch?v=ikAb-NYkseI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Elon Musk
-Anhand seiner eigenen Geschichte und seinem Erfolg, macht Denzel eins deutlich - "Wenn du nicht scheiterst, hast du es nicht ein mal versucht."
 
 <div class="video">
 <iframe width="740" height="415" src="https://www.youtube.com/embed/FLbhpb-MExg" frameborder="0" allowfullscreen></iframe>
@@ -30,4 +34,4 @@ Die lange Version von seinem Motivationsvideo findet ihr [hier](https://vimeo.co
 
 Ihr kennt noch weitere Reden die jeder kennen sollte? Nutzt unsere Kommentarfunktion!
 
-// Foto von [Joshua Earle](http://www.joshuaearlephotography.com)
+// Foto von [Elijah Hail](https://unsplash.com/elijahhail/portfolio)
