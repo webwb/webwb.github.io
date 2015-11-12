@@ -8,8 +8,8 @@ published: false
 title: "Diese Motivationsreden musst du kennen! - Teil 2"
 ---
 
-![moti2overview.jpg]({{site.baseurl}}/images/moti2overview.jpg)
 
+> Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun. - Johann Wolfgang von Goethe
 
 ![Motivationsbanner Teil 2]({{site.baseurl}}/images/moti2banner.jpg)
 
