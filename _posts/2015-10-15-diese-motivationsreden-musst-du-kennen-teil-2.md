@@ -31,9 +31,10 @@ Obwohl er von Anfang an mit dem Verlust seines Investments für SpaceX gerechnet
 </div>
 
 In diesem Sinne: "Just do it! What are you waiting for?", um die Worte von Shia LaBeouf aufzugreifen.
+
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXsQAXx_ao0" frameborder="0" allowfullscreen></iframe>
-<div>
+<iframe width="740" height="415" src="https://www.youtube.com/embed/ZXsQAXx_ao0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Die lange Version von seinem Motivationsvideo findet ihr [hier](https://vimeo.com/125095515)!
 
