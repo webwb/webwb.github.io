@@ -107,6 +107,11 @@ navigation: about
           <i class="fa fa-camera fa-stack-1x"></i>
         </a>
       </li>
+      <li>
+        <a href="https://twitter.com/webworkers_io" class="fa-stack fa-2x circle">
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </a>
+      </li>
     </ul>
   </div>
 </div>
