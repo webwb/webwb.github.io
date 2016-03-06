@@ -140,6 +140,10 @@ a.page-link.active {
   background:$brand-color;
   border-color: $brand-color;
   color:white;
+  -webkit-transition: border 0.3s linear;
+  -moz-transition: border 0.3s linear;
+  -o-transition: border 0.3s linear;
+  transition: border 0.3s linear;
 }
 .bordered {
   color: $brand-color;
