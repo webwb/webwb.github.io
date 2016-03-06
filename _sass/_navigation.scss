@@ -117,12 +117,20 @@ nav[role="navigation"] {
   text-decoration:none;
   border: 1px rgba(0, 0, 0, 0) solid;
   border-radius: 8px;
+  -webkit-transition: border 0.3s ease-out;
+  -moz-transition: border 0.3s ease-out;
+  -o-transition: border 0.3s ease-out;
+  transition: border 0.3s ease-out;
   &:visited {
     color: $brand-color;
   }
   &:hover {
     border-color: $brand-color;
     text-decoration:none;
+    -webkit-transition: border 0.4s linear;
+    -moz-transition: border 0.4s linear;
+    -o-transition: border 0.4s linear;
+    transition: border 0.4s linear;
   }
   &:active {
     @extend .active;
