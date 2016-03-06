@@ -127,10 +127,10 @@ nav[role="navigation"] {
   &:hover {
     border-color: $brand-color;
     text-decoration:none;
-    -webkit-transition: border 0.4s linear;
-    -moz-transition: border 0.4s linear;
-    -o-transition: border 0.4s linear;
-    transition: border 0.4s linear;
+    -webkit-transition: border 0.3s linear;
+    -moz-transition: border 0.3s linear;
+    -o-transition: border 0.3s linear;
+    transition: border 0.3s linear;
   }
   &:active {
     @extend .active;
