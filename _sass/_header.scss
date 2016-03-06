@@ -10,7 +10,7 @@
 }
 .site-logo {
   float:left;
-  padding:2.5em 0 1em 0;
+  padding:2em 0 2em 0;
   img {
   height:2.5625em;
        @include media-query($on-palm) {
@@ -20,7 +20,7 @@
 }
 .site-heading {
   float:left;
-  padding:2.9em 0 0 0.5em;
+  padding:2.4em 0 0 0.5em;
   text-transform:uppercase;
 }
 .site-title {
