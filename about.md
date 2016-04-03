@@ -57,7 +57,7 @@ navigation: about
 </div>
 
 <div class="profile">
-  <img class="profile-photo" src="/images/andreface.png" alt="just some random face"/>
+  <img class="profile-photo" src="/images/andre.png" alt="just some random face"/>
   <div class="profile-name">André Borges</div>
   <div class="profile-talent">Webnatic</div>
   <div class="profile-bio">
