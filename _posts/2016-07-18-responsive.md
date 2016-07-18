@@ -19,3 +19,7 @@ and (max-width : 420px) {
     width: 50%;
   }
 }
+
+
+Beispiel:
+http://codepen.io/ashleycallahan/pen/pcxGL
