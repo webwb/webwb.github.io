@@ -21,7 +21,8 @@ Meine persönlichen Favoriten sind:
 
 Die Presets für die Schwarzweißfotografie sind für mich persönlich uninteressant 
  
-**Die Filter findet ihr auf der folgenden Seite.**https://freelightroompresets.co/free-lightroom-presets/
+**Die Filter findet ihr auf der folgenden Seite.**
+https://freelightroompresets.co/free-lightroom-presets/
 
 
 ## VSCO Film
@@ -32,4 +33,5 @@ Mit den 8 hochwertigen Filterpacks von VSCO
 
 Meine persönlichen Lieblingsfilter befinden sich in den Filterpaketen 5 und 6. Aufgrund des hohen Preises der Pakete würde ich deshalb eines dieser beiden Pakete empfehlen.
 
-**Die Filter findet ihr auf der folgenden Seite.**http://vsco.co/store/film
+**Die Filter findet ihr auf der folgenden Seite.**
+http://vsco.co/store/film
