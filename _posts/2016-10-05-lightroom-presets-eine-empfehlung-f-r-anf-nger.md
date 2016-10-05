@@ -4,6 +4,7 @@ comments: true
 categories: life
 published: false
 title: Lightroom Presets - Eine Empfehlung für Anfänger
+author: André Borges
 ---
 Bis ich begonnen habe intensiv zu fotografieren.
 
