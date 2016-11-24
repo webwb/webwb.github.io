@@ -194,3 +194,16 @@ AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml text/x-js t
 ## Local Signals
 - Auf die Städteseiten verlinken mit Titeln wie z.B. "Proudly Serving", "Service Map Area"
 - Nearby Places und auf Restaurants, Hotels, Metro, Parkplätze verlinken
+
+## Social Widgets
+- Verlinken von Facebook, Google+, Twitter und Co.
+
+## Google Map
+- Frame mit den Standorten einbinden
+
+## Youtube Video
+- Man sollte einige Youtube Videos einbinden
+
+
+## Hilfreiche Videos:
+https://www.youtube.com/watch?v=e2Q48xXfqGM Google Maps Local SEO Training Video
