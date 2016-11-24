@@ -1,10 +1,10 @@
 ---
+layout: post
 published: false
 author: André Borges
 comments: true
 categories: life
-image: ""
-title: "Seo - Nützliche Tools..."
+title: Seo - Nützliche Tools...
 ---
 
 ## Schritt 1: Die handwerkliche Umsetzung der Seite prüfen
@@ -185,3 +185,12 @@ AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml text/x-js t
 </IfModule>
 ## EXPIRES CACHING ##
 ~~~
+
+## Google MyBusiness
+- Namensrichtlinien beachten 
+- Kategorien füllen. Eine Liste aller Kategorien unter http://blumenthals.com/
+- Bestätigungscode eingeben
+
+## Local Signals
+- Auf die Städteseiten verlinken mit Titeln wie z.B. "Proudly Serving", "Service Map Area"
+- Nearby Places und auf Restaurants, Hotels, Metro, Parkplätze verlinken
