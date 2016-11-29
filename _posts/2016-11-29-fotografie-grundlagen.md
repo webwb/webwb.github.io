@@ -11,6 +11,7 @@ author: André Borges
 ### Aperture
 - Je höher die Blende, desto dunkler das Bild, desto höhere Tiefenschärfe
 - Je niedriger die Blende, desto heller, deso niedriger Tiefenschärfe (mehr Bokeh)
+- Mit jedem Schritt z.B. 1.4 auf 2 halbiert man das einfallende Licht
 
 ### Shuterspeed
 - Daumenregel aus der Hand nicht unter 1/50, um kein wackeliges Bild zu kriegen
@@ -24,4 +25,9 @@ author: André Borges
 - Das Histogramm geht von Schwarz in Weiß (0 zu 255)
 - Hohe Werte in Bereichen führen dazu, dass diese Bereiche nicht mehr aufzuhellen oder verdunkelt werden können
 - Ein gutes Bild hat keine Höhepunkte rechts und links
+- Diese Regel muss aber bewusst auch bei gewissen Bildern ignoriert werden
+
+## Goldener Schnitt
+- Das Bild sollte immer in 9 gleich große Boxen geteilt werden
+- Bei Landschaften sollte der Horizont auf der Höhe zwischen der zweiten und dritten Zeile liegen
 
