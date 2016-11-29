@@ -4,6 +4,7 @@ comments: true
 categories: life
 published: false
 title: Fotografie - Grundlagen
+author: André Borges
 ---
 ## Shutterspeed, Aperture, ISO
 
