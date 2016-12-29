@@ -22,7 +22,7 @@ Nach der typisch langen Wartezeit bei Kickstartern Projekten ist mein Podo heute
 
 ![Podo Unboxing]({{site.baseurl}}/images/DSC01669.jpg)
 
-## Qualität der Bilder
+## Qualität der Bilder - Gut oder eher nicht gut?
 Der Hersteller gibt die Qualität mit 5 Megapixeln an. Zusätzlich spricht der Hersteller von größeren Pixeln auf dem Sensor als bei einem iPhone oder Samsung Smartphone. Hierdurch sollen bessere Bilder entstehen. Ob das so stimmt, habe ich mit Testbildern versucht darzustellen.
 
 
