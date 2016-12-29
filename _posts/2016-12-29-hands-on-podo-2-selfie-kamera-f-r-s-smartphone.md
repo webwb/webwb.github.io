@@ -16,7 +16,7 @@ Weitere Informationen findet ihr [hier](https://www.kickstarter.com/projects/pod
 
 ## Unboxing - Was bekommt man?
 
-Nach der typisch langen Wartezeit bei Kickstartern Projekten ist mein Podo heute angekommen. Man erhält eine relativ kleine Packung in der sich der Podo, ein Ladekabel und die knappe Anleitung befindet. Das wars...
+Nach der typisch langen Wartezeit bei Kickstartern Projekten ist mein Podo heute angekommen. Man erhält eine relativ kleine Packung in der sich der Podo, ein Ladekabel und die knappe Anleitung befindet. Das wars auch schon...
 
-
+## 
 
