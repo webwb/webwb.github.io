@@ -48,7 +48,7 @@ Der Hersteller gibt die Qualität mit 5 Megapixeln an. Zusätzlich spricht der H
 
 ![Podo example Screen]({{site.baseurl}}/images/Podo5B2P_170110130453_1.jpg)
 
-Meine persönliche Meinung der Bilder ist ganz eindeutig "na ja". Die Qualität erinnert mich persönlich an die ersten iPhones. Zudem kommen durch den relativen breiten Bildbereich "chromatische Aberration" dazu. Helle Stellen werden zudem ziemlich überbelichtet.
+Meine persönliche Meinung der Bilder ist ganz eindeutig "na ja". Die Qualität erinnert mich  an die ersten iPhones. Zudem kommen durch den relativen breiten Bildbereich "chromatische Aberration" dazu. Helle Stellen werden zudem ziemlich überbelichtet.
 
 ## Fazit
 Da es sich bei dem Podo um einen Selfie Stick handelt und nicht um eine Kamera für hochauflösende Fotos, würde ich den Podo trotz der mittelmäßigen Qualität empfehlen. Warum? Weil er super klein ist und in jede Tasche passt. Möchte man mal ein Gruppenselfie machen, können alle auf das Bild ohne das sich irgendjemand den Arm ausrenken muss.
