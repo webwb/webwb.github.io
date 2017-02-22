@@ -111,7 +111,7 @@ navigation: about
   </div>
 </div>
 
-<div class="profile">
+<!-- <div class="profile">
   <img class="profile-photo" src="/images/andre.png" alt="just some random face"/>
   <div class="profile-name">Marc Hutnik</div>
   <div class="profile-talent">Backend Developer</div>
@@ -154,3 +154,4 @@ navigation: about
     </ul>
   </div>
 </div>
+-->
