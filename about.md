@@ -81,6 +81,7 @@ navigation: about
     <h2>Projects</h2>
     <ul>
       <li><a href="http://www.lopesmario.com">Mario Lopes</a></li>
+      <li><a href="http://www.andreborges.de">André Borges Pictures</a></li>
       <!--<li>Fahrtenbucher</li> */ -->
     </ul>
   </div>
