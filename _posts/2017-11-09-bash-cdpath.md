@@ -9,7 +9,7 @@ image: nilsbash.png
 ---
 ## CDPATH - The search path for the cd command
 
-![]({{site.baseurl}}/images/nilsbash_teaser.png)![nilsbash_teaser.png]
+![nilsbash_teaser.png]({{site.baseurl}}/images/nilsbash_teaser.png)
 
 
 `cd` TAB+TAB anywhere and get your home folders expanded. Add
