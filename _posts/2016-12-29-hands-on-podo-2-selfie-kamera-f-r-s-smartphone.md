@@ -3,7 +3,7 @@ layout: post
 comments: true
 categories: digital
 published: true
-title: 'Hands-on & Test: Podo 2 - Selfie-Kamera für''s Smartphone'
+title: 'Hands on & Test: Podo 2 - Selfie-Kamera für''s Smartphone'
 author: André Borges
 image: DSC01667.jpg
 ---
