@@ -5,7 +5,7 @@ categories: bash
 published: true
 title: Bash - CDPATH
 author: Nils Bolsen
-image: /images/nilsbash.png
+image: nilsbash.png
 ---
 ## CDPATH - The search path for the cd command
 
