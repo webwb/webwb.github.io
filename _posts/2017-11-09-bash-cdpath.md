@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: bash
-published: tru
+published: true
 title: Bash - CDPATH
 author: Nils Bolsen
 ---
