@@ -7,7 +7,7 @@ title: Bash - CDPATH
 author: Nils Bolsen
 image: nilsbash.png
 ---
-Quickly jumping to your favorite folders, using bash's CDPATH.
+Quickly jumping to your favorite folders using bash's CDPATH.
 
 ![nilsbash_teaser.png]({{site.baseurl}}/images/nilsbash_teaser.png)
 
