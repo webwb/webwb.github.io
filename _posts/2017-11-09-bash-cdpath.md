@@ -7,10 +7,10 @@ title: Bash - CDPATH
 author: Nils Bolsen
 image: nilsbash.png
 ---
-## CDPATH - The search path for the cd command
-
 ![nilsbash_teaser.png]({{site.baseurl}}/images/nilsbash_teaser.png)
 
+
+## CDPATH - The search path for the cd command
 
 `cd` TAB+TAB anywhere and get your home folders expanded. Add
 
