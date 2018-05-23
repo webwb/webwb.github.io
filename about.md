@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 layout: page
 title: About
@@ -63,8 +61,10 @@ navigation: about
   <div class="profile-name">André Borges</div>
   <div class="profile-talent">Webnatic</div>
   <div class="profile-bio">
-    I'm 28 years old and living in Bad Homburg.
-    I have worked for one of the biggest technology companies in the world and was responsible for the internal intranet development of europeans largest airline carrier. Currently I'm working for a small consulting company.  </div>
+    I'm 26 years old and living in Bad Homburg.
+    Currently I'm working for one of the biggest technology companies in the world.
+    I'm responsible for the internal intranet development of europeans largest airline carrier.
+    In my leisure time I like biketours and take photos.  </div>
   <div class="profile-skills">
     <h2>Skills</h2>
     <ul>
@@ -81,8 +81,8 @@ navigation: about
     <h2>Projects</h2>
     <ul>
       <li><a href="http://www.lopesmario.com">Mario Lopes</a></li>
-      <li><a href="https://www.andreborges.de">André Borges Pictures</a></li>
-      <li><a href="https://www.kribbelnimbauch.de">Kribbeln im Bauch</a></li>
+      <li><a href="http://www.andreborges.de">André Borges Pictures</a></li>
+      <!--<li>Fahrtenbucher</li> */ -->
     </ul>
   </div>
   <div class="profile-contacts">
@@ -156,4 +156,3 @@ navigation: about
   </div>
 </div>
 -->
->>>>>>> c9de07a02f8596c98c6dfeb82928fd84dff2e7f7
