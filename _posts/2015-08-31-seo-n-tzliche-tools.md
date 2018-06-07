@@ -22,6 +22,8 @@ http://jigsaw.w3.org/css-validator/
 
 ## Performance
 Ein wichtiger Faktor für die Nutzer beim Aufruf der Seite, aber auch der Bewertung der eigenen Seite durch Google ist die Geschwindigkeit der Seite.
+
+###Google Pagespeed
 Um eine Vebesserung der Performance durchzuführen, kann das PageSpeed Tool von Google verwendet werden. Neben einer Auswertung bietet es auch Hinweise auf Verbesserungsmöglichkeiten.
 https://developers.google.com/speed/pagespeed/insights/
 
@@ -30,6 +32,23 @@ https://developers.google.com/speed/pagespeed/insights/
 - Mobile-Touch-Icon erstellen
 - Erreichbar mit und ohne www (Redirect)
 - Individuelle Fehlerseite
+
+###Lighthouse Chrome Plugin
+Bietet die Möglichkeit eine Seite auf Perfomance zu prüfen
+https://developers.google.com/web/tools/lighthouse/
+
+###Pingdom Website Speed Test
+https://tools.pingdom.com/
+
+###Webpage Test
+http://www.webpagetest.org/
+
+###Website Speed Test
+https://tools.keycdn.com/speed
+
+###Website Speed Test Image Analysis Tool
+https://webspeedtest.cloudinary.com/
+
 
 ## Schritt 2: Seite auf Metatags und sonstige Punkte prüfen
 Im zweiten Schritt prüfen wir, welche weitere Optimierungen wir auf der Seite durchführen können.
