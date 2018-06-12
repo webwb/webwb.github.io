@@ -223,6 +223,13 @@ AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml text/x-js t
 ## Youtube Video
 - Man sollte einige Youtube Videos einbinden
 
+# Ranking beobachten
+
+## Google Rank Checker
+https://derdigitaleunternehmer.de/google-ranking-check/
+
+## 
+
 
 ## Hilfreiche Videos:
 https://www.youtube.com/watch?v=e2Q48xXfqGM Google Maps Local SEO Training Video
