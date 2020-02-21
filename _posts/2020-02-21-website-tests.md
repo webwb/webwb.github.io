@@ -9,3 +9,5 @@ author: André Borges
 ## Tools to test websites
 
 http://mattkersley.com/responsive/
+https://invideo.io/
+https://makestories.io/
